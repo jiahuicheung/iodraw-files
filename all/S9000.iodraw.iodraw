@@ -146,7 +146,7 @@
             <mxPoint x="330" y="779.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-46" value="进排一体*12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-45">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-46" value="压差" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-45">
           <mxGeometry x="-0.1133" y="-1" relative="1" as="geometry">
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
