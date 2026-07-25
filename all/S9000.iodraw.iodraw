@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-1" value="激光测距" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="170" width="130" height="40" as="geometry" />
+          <mxGeometry x="120" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-2" value="风速" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
