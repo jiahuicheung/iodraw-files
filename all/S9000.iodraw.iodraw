@@ -208,8 +208,8 @@
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-61" value="阀门" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ae4132;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fad9d5;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1051" width="60" height="30" as="geometry" />
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-61" value="氦阀1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ae4132;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fad9d5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1035" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
