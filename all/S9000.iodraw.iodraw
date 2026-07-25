@@ -228,7 +228,18 @@
         </mxCell>
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-14" value="进排一体*6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F2oUvaa99RbrWr0L0Z2h-13">
           <mxGeometry x="0.1717" y="-1" relative="1" as="geometry">
-            <mxPoint x="-24" y="-5" as="offset" />
+            <mxPoint x="-31" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.386;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589.64" y="110" as="sourcePoint" />
+            <mxPoint x="589.8199999999999" y="150.44000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-16" value="进排一体*6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F2oUvaa99RbrWr0L0Z2h-15">
+          <mxGeometry x="0.1717" y="-1" relative="1" as="geometry">
+            <mxPoint x="-31" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
