@@ -19,10 +19,15 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-5" value="副囊高" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#82b366;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d5e8d4;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="130" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tjDzcPx0pKLCWk0JxXAi-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="180" as="sourcePoint" />
             <mxPoint x="328" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-6">
+          <mxGeometry x="0.1717" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
