@@ -194,11 +194,11 @@
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-58" value="压控电路&lt;div&gt;B&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="850" width="110" height="150" as="geometry" />
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-58" value="安控电路" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1010" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-59" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="860" width="60" height="61" as="geometry" />
+          <mxGeometry x="120" y="1020" width="60" height="61" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-60" value="风机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#56517e;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d0cee2;whiteSpace=wrap;" vertex="1" parent="tjDzcPx0pKLCWk0JxXAi-59">
           <mxGeometry width="60" height="30" as="geometry" />
@@ -208,31 +208,11 @@
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.004;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.986;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#E3E3E3;" edge="1" parent="1" source="tjDzcPx0pKLCWk0JxXAi-60" target="tjDzcPx0pKLCWk0JxXAi-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="895.4000000000001" as="sourcePoint" />
-            <mxPoint x="300" y="885.4000000000001" as="targetPoint" />
+            <mxPoint x="180" y="1055.4" as="sourcePoint" />
+            <mxPoint x="290" y="1045.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-63" value="进排一体*6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-62">
-          <mxGeometry x="-0.1133" y="-1" relative="1" as="geometry">
-            <mxPoint x="3" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-64" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="940" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="tjDzcPx0pKLCWk0JxXAi-64">
-          <mxGeometry width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tjDzcPx0pKLCWk0JxXAi-64">
-          <mxGeometry x="10" y="10" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.161;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#E3E3E3;" edge="1" parent="1" source="tjDzcPx0pKLCWk0JxXAi-65">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="188" y="959.71" as="sourcePoint" />
-            <mxPoint x="340" y="959.71" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-68" value="压差" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-67">
           <mxGeometry x="-0.1133" y="-1" relative="1" as="geometry">
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
