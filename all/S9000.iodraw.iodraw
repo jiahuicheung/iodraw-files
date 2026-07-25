@@ -287,8 +287,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F2oUvaa99RbrWr0L0Z2h-47" target="F2oUvaa99RbrWr0L0Z2h-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-47" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="857.5" width="80" height="65" as="geometry" />
+          <mxGeometry x="840" y="857.5" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-49" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#a0522d;strokeColor=#6D1F00;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="570" y="810" width="140" height="100" as="geometry" />
