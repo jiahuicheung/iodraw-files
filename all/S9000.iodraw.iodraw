@@ -105,7 +105,7 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-26" value="CANET200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
