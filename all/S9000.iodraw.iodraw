@@ -140,13 +140,13 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-69" value="氦阀2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ae4132;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fad9d5;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="970" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.014;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tjDzcPx0pKLCWk0JxXAi-69" edge="1">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.014;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tjDzcPx0pKLCWk0JxXAi-69" edge="1" target="tjDzcPx0pKLCWk0JxXAi-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="80" as="sourcePoint" />
             <mxPoint x="1070" y="40" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="60" />
-              <mxPoint x="1040" y="30" />
+              <mxPoint x="1040" y="80" />
+              <mxPoint x="1060" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
