@@ -274,7 +274,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-31" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="110" width="60" height="60" as="geometry" />
+          <mxGeometry x="1190" y="61" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tjDzcPx0pKLCWk0JxXAi-58" target="F2oUvaa99RbrWr0L0Z2h-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
