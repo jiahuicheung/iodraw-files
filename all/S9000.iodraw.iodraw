@@ -111,11 +111,14 @@
             <mxPoint x="6" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-37" value="风机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#56517e;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d0cee2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="680" width="60" height="30" as="geometry" />
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="680" width="60" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-38" value="阀门" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ae4132;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fad9d5;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="711" width="60" height="30" as="geometry" />
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-37" value="风机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#56517e;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d0cee2;whiteSpace=wrap;" vertex="1" parent="tjDzcPx0pKLCWk0JxXAi-39">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-38" value="阀门" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ae4132;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fad9d5;whiteSpace=wrap;" vertex="1" parent="tjDzcPx0pKLCWk0JxXAi-39">
+          <mxGeometry y="31" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
