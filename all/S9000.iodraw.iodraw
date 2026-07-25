@@ -233,6 +233,9 @@
             <mxPoint x="-3" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-34" value="" style="fontColor=#000000;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#fa6800;strokeColor=#C73500;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.hub;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
