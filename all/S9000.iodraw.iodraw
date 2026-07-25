@@ -64,40 +64,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-14" value="发电电机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="160" width="130" height="40" as="geometry" />
+          <mxGeometry x="129" y="450" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-15" value="DCDC充电器" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="130" height="40" as="geometry" />
+          <mxGeometry x="129" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-16" value="电压采集盒" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="300" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.005;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tjDzcPx0pKLCWk0JxXAi-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="290" as="sourcePoint" />
-            <mxPoint x="460" y="181" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-21" value="CAN/422" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-18">
-          <mxGeometry x="0.0309" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.005;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529" y="249.76" as="sourcePoint" />
-            <mxPoint x="460" y="249.76" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-22" value="CAN/485" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-19">
-          <mxGeometry x="-0.0292" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="129" y="590" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.005;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="319.76" as="sourcePoint" />
-            <mxPoint x="461" y="319.76" as="targetPoint" />
+            <mxPoint x="129" y="609.76" as="sourcePoint" />
+            <mxPoint x="60" y="609.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-24" value="CAN/485" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-20">
