@@ -340,7 +340,7 @@
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-85" value="CAN接口：CANET200" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F2oUvaa99RbrWr0L0Z2h-80">
           <mxGeometry y="180" width="282" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F2oUvaa99RbrWr0L0Z2h-87" value="数传电台：" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F2oUvaa99RbrWr0L0Z2h-80">
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-87" value="数传电台：&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;TL-S5G-15KM&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F2oUvaa99RbrWr0L0Z2h-80">
           <mxGeometry y="210" width="282" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-88" value="卫通：" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F2oUvaa99RbrWr0L0Z2h-80">
