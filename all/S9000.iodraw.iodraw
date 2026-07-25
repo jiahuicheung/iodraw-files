@@ -33,10 +33,10 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-14" value="发电电机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="330" y="250" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-15" value="DCDC充电器" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-15" value="DCDC&lt;div&gt;充电器&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="510" y="250" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-16" value="电压采集盒" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-16" value="电压&lt;div&gt;采集盒&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-26" value="CANET200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;dashed=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontStyle=1;" parent="1" vertex="1">
@@ -55,8 +55,8 @@
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="467.5" as="sourcePoint" />
-            <mxPoint x="332" y="466.5" as="targetPoint" />
+            <mxPoint x="250" y="241" as="sourcePoint" />
+            <mxPoint x="332" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-34" value="CAN/422" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="tjDzcPx0pKLCWk0JxXAi-28" vertex="1" connectable="0">
