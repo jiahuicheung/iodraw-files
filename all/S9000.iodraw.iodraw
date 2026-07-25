@@ -76,7 +76,7 @@
           <mxGeometry x="330" y="452" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-27" value="压控电路" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="670" width="130" height="250" as="geometry" />
+          <mxGeometry x="330" y="670" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -126,7 +126,7 @@
             <mxPoint x="290" y="705.4000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-41" value="进排一体*12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-40">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-41" value="进排一体*6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-40">
           <mxGeometry x="-0.1133" y="-1" relative="1" as="geometry">
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
