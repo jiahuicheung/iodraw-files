@@ -299,8 +299,8 @@
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.83;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F2oUvaa99RbrWr0L0Z2h-46" target="F2oUvaa99RbrWr0L0Z2h-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F2oUvaa99RbrWr0L0Z2h-49" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
-          <mxGeometry x="280" y="950" width="100" height="85" as="geometry" />
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-49" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#ffff88;strokeColor=#36393d;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="480" y="817.5" width="100" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
