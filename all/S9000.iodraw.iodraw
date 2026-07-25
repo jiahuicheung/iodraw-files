@@ -237,9 +237,9 @@
             <mxPoint x="589.8199999999999" y="150.44000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F2oUvaa99RbrWr0L0Z2h-16" value="进排一体*6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F2oUvaa99RbrWr0L0Z2h-15">
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-16" value="压差" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F2oUvaa99RbrWr0L0Z2h-15">
           <mxGeometry x="0.1717" y="-1" relative="1" as="geometry">
-            <mxPoint x="-31" y="-5" as="offset" />
+            <mxPoint x="-14" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
