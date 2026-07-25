@@ -222,10 +222,10 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.014;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tjDzcPx0pKLCWk0JxXAi-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="1140" as="sourcePoint" />
-            <mxPoint x="250" y="1100" as="targetPoint" />
+            <mxPoint x="250" y="1090" as="targetPoint" />
             <Array as="points">
               <mxPoint x="210" y="1120" />
-              <mxPoint x="230" y="1100" />
+              <mxPoint x="220" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
