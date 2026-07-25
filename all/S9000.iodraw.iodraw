@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="-0Eu2sRkNIBGPqm1_U6v">
-    <mxGraphModel dx="842" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-26" value="CANET200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;dashed=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="165" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-27" value="采集电路&lt;div&gt;N580&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-27" value="压控电路" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="450" width="130" height="250" as="geometry" />
         </mxCell>
       </root>
