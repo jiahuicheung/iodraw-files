@@ -301,8 +301,8 @@
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-49" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#a0522d;strokeColor=#6D1F00;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="570" y="810" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F2oUvaa99RbrWr0L0Z2h-51" value="地面软件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="960" width="80" height="30" as="geometry" />
+        <mxCell id="F2oUvaa99RbrWr0L0Z2h-51" value="地面软件" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="870" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
