@@ -294,7 +294,7 @@
           <mxGeometry x="820" y="860" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-47" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="960" width="80" height="65" as="geometry" />
+          <mxGeometry x="1100" y="857.5" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="F2oUvaa99RbrWr0L0Z2h-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.83;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F2oUvaa99RbrWr0L0Z2h-46" target="F2oUvaa99RbrWr0L0Z2h-44">
           <mxGeometry relative="1" as="geometry" />
