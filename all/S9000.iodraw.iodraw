@@ -111,8 +111,8 @@
             <mxPoint x="6" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-37" value="DCDC充电器" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="680" width="130" height="40" as="geometry" />
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-37" value="风机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
