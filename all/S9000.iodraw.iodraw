@@ -120,10 +120,15 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-38" value="阀门" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#ae4132;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fad9d5;whiteSpace=wrap;" vertex="1" parent="tjDzcPx0pKLCWk0JxXAi-39">
           <mxGeometry y="31" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.161;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.986;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#B5B5B5;" edge="1" parent="1" source="tjDzcPx0pKLCWk0JxXAi-37" target="tjDzcPx0pKLCWk0JxXAi-27">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.161;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.986;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#E3E3E3;" edge="1" parent="1" source="tjDzcPx0pKLCWk0JxXAi-37" target="tjDzcPx0pKLCWk0JxXAi-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="715.4000000000001" as="sourcePoint" />
             <mxPoint x="290" y="705.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjDzcPx0pKLCWk0JxXAi-40">
+          <mxGeometry x="-0.1133" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
