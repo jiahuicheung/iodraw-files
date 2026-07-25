@@ -16,7 +16,7 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-4" value="定位" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-5" value="副囊高" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d79b00;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffe6cc;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-5" value="采集模块" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d79b00;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffe6cc;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="130" height="250" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.013;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tjDzcPx0pKLCWk0JxXAi-5">
