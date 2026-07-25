@@ -31,13 +31,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-14" value="发电电机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="310" y="240" width="130" height="40" as="geometry" />
+          <mxGeometry x="310" y="240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-15" value="DCDC充电器" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="120" y="590" width="130" height="40" as="geometry" />
+          <mxGeometry x="630" y="250" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-16" value="电压采集盒" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="130" height="40" as="geometry" />
+          <mxGeometry x="480" y="240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-26" value="CANET200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;dashed=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="452" width="60" height="30" as="geometry" />
