@@ -39,8 +39,8 @@
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-16" value="电压&lt;div&gt;采集盒&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tjDzcPx0pKLCWk0JxXAi-26" value="CANET200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;dashed=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="tjDzcPx0pKLCWk0JxXAi-26" value="CANET200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;dashed=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tjDzcPx0pKLCWk0JxXAi-27" target="tjDzcPx0pKLCWk0JxXAi-75" edge="1">
           <mxGeometry relative="1" as="geometry">
