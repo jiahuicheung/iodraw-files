@@ -85,15 +85,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-44" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="130" y="760" width="40" height="40" as="geometry" />
+          <mxGeometry x="590" y="60" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="tjDzcPx0pKLCWk0JxXAi-44" vertex="1">
           <mxGeometry width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="F2oUvaa99RbrWr0L0Z2h-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="tjDzcPx0pKLCWk0JxXAi-44" source="tjDzcPx0pKLCWk0JxXAi-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="-670" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="tjDzcPx0pKLCWk0JxXAi-44" vertex="1">
           <mxGeometry x="10" y="10" width="20" height="20" as="geometry" />
