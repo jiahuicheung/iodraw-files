@@ -381,7 +381,7 @@
         <mxCell id="9l6Qf-0oWJK0U7ERKxrz-10" value="电压&lt;div&gt;采集盒&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="1410" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-12" value="压控电路&lt;div&gt;A&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-12" value="压控计算机&lt;div&gt;A&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="482" y="1320" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9l6Qf-0oWJK0U7ERKxrz-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.571;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
