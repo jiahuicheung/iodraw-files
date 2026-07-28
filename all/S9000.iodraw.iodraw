@@ -539,7 +539,7 @@
             <mxPoint x="721.8199999999999" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-48" value="进排一体*6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9l6Qf-0oWJK0U7ERKxrz-47">
+        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-48" value="进排一体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9l6Qf-0oWJK0U7ERKxrz-47">
           <mxGeometry x="0.1717" y="-1" relative="1" as="geometry">
             <mxPoint x="-31" y="-5" as="offset" />
           </mxGeometry>
