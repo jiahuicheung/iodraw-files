@@ -432,7 +432,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-25" value="引线&lt;div&gt;控制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-25" value="&lt;span style=&quot;background-color: initial;&quot;&gt;独立&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;控制&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1092" y="1234" width="40" height="31" as="geometry" />
         </mxCell>
         <mxCell id="9l6Qf-0oWJK0U7ERKxrz-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.386;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
