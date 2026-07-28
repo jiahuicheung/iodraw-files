@@ -358,7 +358,7 @@
         <mxCell id="9l6Qf-0oWJK0U7ERKxrz-4" value="定位" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="1240" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-5" value="采集电路&lt;div&gt;N580&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d79b00;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffe6cc;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-5" value="测控计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d79b00;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffe6cc;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="90" y="1320" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9l6Qf-0oWJK0U7ERKxrz-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.386;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
