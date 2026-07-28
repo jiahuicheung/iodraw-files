@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-80" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1900" width="840" height="290" as="geometry" />
+        <mxCell id="9l6Qf-0oWJK0U7ERKxrz-80" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=hatch;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1910" width="840" height="290" as="geometry" />
         </mxCell>
         <mxCell id="tjDzcPx0pKLCWk0JxXAi-1" value="副囊高" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="78" y="80" width="70" height="40" as="geometry" />
