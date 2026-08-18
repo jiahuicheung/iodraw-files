@@ -820,6 +820,9 @@
         <mxCell id="njEiWrLyklKhBl9MnWE4-4" value="程序编写" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="290" y="679" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="njEiWrLyklKhBl9MnWE4-5" value="程序编写" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="300" y="689" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
