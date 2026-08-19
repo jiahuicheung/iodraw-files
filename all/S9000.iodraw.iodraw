@@ -940,8 +940,8 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-80" value="主气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="2350" y="1158.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-84" value="球载设备" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#B09500;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e3c800;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3270" y="260" width="660" height="150" as="geometry" />
+        <mxCell id="CBttaGu5vdazZw4M_ueo-84" value="球载设备" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#B09500;mainText=;buttonStyle=round;fontSize=22;fontStyle=1;fillColor=#e3c800;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="3270" y="320" width="660" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
