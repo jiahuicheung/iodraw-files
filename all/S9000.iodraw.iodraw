@@ -937,6 +937,9 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-80" value="主气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="2359" y="1184" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CBttaGu5vdazZw4M_ueo-83" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="984" width="500" height="306" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
