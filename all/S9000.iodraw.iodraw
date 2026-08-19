@@ -838,10 +838,10 @@
           <mxGeometry x="1520" y="305" width="400" height="255" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-54" value="安控电路" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffcccc;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1060" width="180" height="110" as="geometry" />
+          <mxGeometry x="1720" y="1210" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-55" value="副气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1950" y="1095" width="90" height="40" as="geometry" />
+          <mxGeometry x="1960" y="1217.5" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
