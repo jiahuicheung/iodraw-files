@@ -898,7 +898,7 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-70" target="CBttaGu5vdazZw4M_ueo-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-82" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-81">
+        <mxCell id="CBttaGu5vdazZw4M_ueo-82" value="X1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-81">
           <mxGeometry x="-0.0833" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -923,10 +923,10 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CBttaGu5vdazZw4M_ueo-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2278" y="1159.51" as="targetPoint" />
-            <mxPoint x="2258" y="1189.51" as="sourcePoint" />
+            <mxPoint x="2258" y="1300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2258" y="1189.51" />
-              <mxPoint x="2433" y="1189.51" />
+              <mxPoint x="2258" y="1300" />
+              <mxPoint x="2433" y="1300" />
             </Array>
           </mxGeometry>
         </mxCell>
