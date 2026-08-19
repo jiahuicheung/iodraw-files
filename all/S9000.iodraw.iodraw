@@ -846,6 +846,9 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-57" value="压控计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1720" y="1099" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="CBttaGu5vdazZw4M_ueo-58" value="副气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1227.5" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
