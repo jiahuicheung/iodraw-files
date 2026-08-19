@@ -664,12 +664,12 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-1" value="压控计算机&lt;div&gt;A&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1470" y="320" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-2">
+        <mxCell id="CBttaGu5vdazZw4M_ueo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1840" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-12" value="X4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-8">
+        <mxCell id="CBttaGu5vdazZw4M_ueo-12" value="X4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-8">
           <mxGeometry x="-0.0833" relative="1" as="geometry">
             <mxPoint y="-19" as="offset" />
           </mxGeometry>
@@ -704,7 +704,7 @@
             <mxPoint x="1840" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-13" value="X4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-9">
+        <mxCell id="CBttaGu5vdazZw4M_ueo-13" value="X4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-9">
           <mxGeometry x="-0.3648" relative="1" as="geometry">
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
