@@ -666,7 +666,7 @@
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1730" y="410" as="targetPoint" />
+            <mxPoint x="1840" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-2" value="压控计算机&lt;div&gt;A&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
@@ -676,7 +676,7 @@
           <mxGeometry x="1470" y="490" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1840" y="390" width="60" height="61" as="geometry" />
+          <mxGeometry x="1840" y="391" width="60" height="61" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-5" value="风机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#56517e;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d0cee2;whiteSpace=wrap;" vertex="1" parent="CBttaGu5vdazZw4M_ueo-4">
           <mxGeometry width="60" height="30" as="geometry" />
