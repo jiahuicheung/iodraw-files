@@ -1,6 +1,6 @@
-<mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="2c4490ee-f0b8-94ab-5012-d5dc3445f7a3">
-    <mxGraphModel dx="300" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -808,22 +808,22 @@
         <mxCell id="7a8b956e7d50b54d-368" value="Task 16" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1360" y="779" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njEiWrLyklKhBl9MnWE4-1" value="装配集成" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="njEiWrLyklKhBl9MnWE4-1" value="装配集成" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="300" y="599" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njEiWrLyklKhBl9MnWE4-2" value="电缆加工" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="njEiWrLyklKhBl9MnWE4-2" value="电缆加工" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="300" y="620" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njEiWrLyklKhBl9MnWE4-3" value="全系统集成" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="njEiWrLyklKhBl9MnWE4-3" value="全系统集成" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="390" y="639" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njEiWrLyklKhBl9MnWE4-4" value="程序编写" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="njEiWrLyklKhBl9MnWE4-4" value="程序编写" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="290" y="679" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njEiWrLyklKhBl9MnWE4-5" value="单机软硬件调试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="njEiWrLyklKhBl9MnWE4-5" value="单机软硬件调试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="380" y="710" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="njEiWrLyklKhBl9MnWE4-6" value="系统及测试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="njEiWrLyklKhBl9MnWE4-6" value="系统及测试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="400" y="750" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
