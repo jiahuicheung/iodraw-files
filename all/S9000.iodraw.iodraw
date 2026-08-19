@@ -895,6 +895,14 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-63" value="主气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="1920" y="1040" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CBttaGu5vdazZw4M_ueo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-70" target="CBttaGu5vdazZw4M_ueo-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBttaGu5vdazZw4M_ueo-82" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-81">
+          <mxGeometry x="-0.0833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-70" value="安控电路" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffcccc;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2188" y="1206.5" width="120" height="55" as="geometry" />
         </mxCell>
@@ -904,21 +912,6 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-73" value="X8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-72">
           <mxGeometry x="-0.075" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.03;exitY=0.551;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-70" target="CBttaGu5vdazZw4M_ueo-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2258" y="1237" />
-              <mxPoint x="2258" y="1310" />
-              <mxPoint x="2388" y="1310" />
-            </Array>
-            <mxPoint x="2258" y="1278.51" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-75" value="X1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="CBttaGu5vdazZw4M_ueo-74">
-          <mxGeometry x="0.286" y="-1" relative="1" as="geometry">
-            <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-76" value="压控计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
