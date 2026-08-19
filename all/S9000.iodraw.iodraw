@@ -750,8 +750,8 @@
             <mxPoint x="2030" y="425.08" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-27" value="压控计算机&lt;div&gt;A&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1652" y="700" width="150" height="50" as="geometry" />
+        <mxCell id="CBttaGu5vdazZw4M_ueo-27" value="控制计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1652" y="700" width="150" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
