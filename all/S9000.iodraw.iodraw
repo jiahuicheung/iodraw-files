@@ -777,6 +777,9 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-33" value="其他分系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2030" y="820" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CBttaGu5vdazZw4M_ueo-34" value="载荷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="866" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
