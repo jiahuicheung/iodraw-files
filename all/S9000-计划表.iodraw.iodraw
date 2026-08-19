@@ -821,7 +821,7 @@
           <mxGeometry x="280" y="600" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="njEiWrLyklKhBl9MnWE4-5" value="单机软硬件调试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="380" y="710" width="60" height="20" as="geometry" />
+          <mxGeometry x="340" y="620" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="njEiWrLyklKhBl9MnWE4-6" value="系统及测试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="400" y="750" width="60" height="20" as="geometry" />
