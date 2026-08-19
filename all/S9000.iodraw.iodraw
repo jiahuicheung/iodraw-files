@@ -765,8 +765,8 @@
             <mxPoint x="1860" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-30" value="压控功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1890" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="CBttaGu5vdazZw4M_ueo-30" value="系统压控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1860" y="720" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
