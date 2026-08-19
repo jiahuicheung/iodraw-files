@@ -770,7 +770,7 @@
           <mxGeometry x="280" y="519" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-356" value="电路板调试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="310" y="539" width="60" height="20" as="geometry" />
+          <mxGeometry x="340" y="539" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-357" value="Task 5" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="370" y="559" width="60" height="20" as="geometry" />
