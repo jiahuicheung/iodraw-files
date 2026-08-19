@@ -767,16 +767,16 @@
           <mxGeometry x="230" y="499" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-355" value="电路板投产" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="280" y="519" width="60" height="20" as="geometry" />
+          <mxGeometry x="285" y="519" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-356" value="电路板调试" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="340" y="539" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-357" value="Task 5" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="370" y="559" width="60" height="20" as="geometry" />
+          <mxGeometry x="685" y="539" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-358" value="Task 6" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="430" y="579" width="180" height="20" as="geometry" />
+          <mxGeometry x="805" y="579" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-359" value="Task 7" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="610" y="599" width="150" height="20" as="geometry" />
