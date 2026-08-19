@@ -837,6 +837,9 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-53" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="305" width="400" height="255" as="geometry" />
         </mxCell>
+        <mxCell id="CBttaGu5vdazZw4M_ueo-54" value="安控电路" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffcccc;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="816.5" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
