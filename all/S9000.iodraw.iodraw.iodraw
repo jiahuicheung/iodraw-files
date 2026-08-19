@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="-0Eu2sRkNIBGPqm1_U6v">
-    <mxGraphModel dx="195" dy="116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="407" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -957,23 +957,14 @@
             <mxPoint x="-42" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYjdy_EG5U8wHJU6u0ik-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-86">
+        <mxCell id="hYjdy_EG5U8wHJU6u0ik-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-86">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3481" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3600" y="630" />
-              <mxPoint x="3481" y="630" />
-              <mxPoint x="3481" y="590" />
-            </Array>
+            <mxPoint x="3481" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYjdy_EG5U8wHJU6u0ik-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-86">
+        <mxCell id="hYjdy_EG5U8wHJU6u0ik-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-86">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3700" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="3600" y="630" />
-              <mxPoint x="3700" y="630" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-86" value="球载设备" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=27;fontStyle=1;fillColor=#cce5ff;whiteSpace=wrap;" parent="1" vertex="1">
