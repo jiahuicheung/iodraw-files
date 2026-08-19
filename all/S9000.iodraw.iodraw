@@ -789,8 +789,11 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-34" value="风电分系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2020" y="843" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-39" value="控制计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="950" width="112" height="100" as="geometry" />
+        <mxCell id="CBttaGu5vdazZw4M_ueo-39" value="压控计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2248" y="700" width="112" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CBttaGu5vdazZw4M_ueo-40" value="控制计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2248" y="796" width="112" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
