@@ -809,7 +809,7 @@
           <mxGeometry x="1360" y="779" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="njEiWrLyklKhBl9MnWE4-1" value="装配集成" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="300" y="599" width="60" height="20" as="geometry" />
+          <mxGeometry x="360" y="559" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="njEiWrLyklKhBl9MnWE4-2" value="电缆加工" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="300" y="620" width="60" height="20" as="geometry" />
