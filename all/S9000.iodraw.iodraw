@@ -904,7 +904,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-70" value="安控电路" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#36393d;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#ffcccc;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2159" y="1176.5" width="120" height="55" as="geometry" />
+          <mxGeometry x="2150" y="1151" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="CBttaGu5vdazZw4M_ueo-76" target="CBttaGu5vdazZw4M_ueo-77">
           <mxGeometry relative="1" as="geometry" />
@@ -915,17 +915,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-76" value="压控计算机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#0e8088;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#b0e3e6;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2159" y="1065.5" width="120" height="70" as="geometry" />
+          <mxGeometry x="2150" y="1040" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-77" value="副气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2359" y="1080.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="2350" y="1055" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="CBttaGu5vdazZw4M_ueo-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2404" y="1230" as="targetPoint" />
-            <mxPoint x="2229" y="1270" as="sourcePoint" />
+            <mxPoint x="2395" y="1204.5" as="targetPoint" />
+            <mxPoint x="2220" y="1244.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2404" y="1270" />
+              <mxPoint x="2395" y="1244.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -935,10 +935,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-80" value="主气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="2359" y="1184" width="90" height="40" as="geometry" />
+          <mxGeometry x="2350" y="1158.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBttaGu5vdazZw4M_ueo-83" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="984" width="500" height="306" as="geometry" />
+          <mxGeometry x="1680" y="984" width="360" height="306" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
