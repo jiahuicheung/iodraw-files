@@ -920,12 +920,11 @@
         <mxCell id="CBttaGu5vdazZw4M_ueo-77" value="副气囊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="2388" y="1110.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBttaGu5vdazZw4M_ueo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="CBttaGu5vdazZw4M_ueo-80">
+        <mxCell id="CBttaGu5vdazZw4M_ueo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="CBttaGu5vdazZw4M_ueo-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2278" y="1159.51" as="targetPoint" />
+            <mxPoint x="2433" y="1260" as="targetPoint" />
             <mxPoint x="2258" y="1300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="2258" y="1300" />
               <mxPoint x="2433" y="1300" />
             </Array>
           </mxGeometry>
