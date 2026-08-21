@@ -134,6 +134,9 @@
         <mxCell id="IN-dRG52hR0EOc9GlZPI-40" value="激光测距" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="90" y="1160" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-41" value="激光测距" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1120" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
