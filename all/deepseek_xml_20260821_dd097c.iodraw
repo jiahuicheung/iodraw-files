@@ -164,7 +164,7 @@
         <mxCell id="IN-dRG52hR0EOc9GlZPI-47" value="继电器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="1280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IN-dRG52hR0EOc9GlZPI-48" value="数据链路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-48" value="控制软件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="530" y="1256" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
