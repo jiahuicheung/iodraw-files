@@ -82,7 +82,7 @@
         <mxCell id="IN-dRG52hR0EOc9GlZPI-26" value="记录补气过程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="50" y="790" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IN-dRG52hR0EOc9GlZPI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-19" target="IN-dRG52hR0EOc9GlZPI-20">
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-19" target="IN-dRG52hR0EOc9GlZPI-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IN-dRG52hR0EOc9GlZPI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-19" target="IN-dRG52hR0EOc9GlZPI-21">
