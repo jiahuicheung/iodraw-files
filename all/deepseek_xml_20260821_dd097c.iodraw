@@ -120,7 +120,7 @@
         <mxCell id="IN-dRG52hR0EOc9GlZPI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-25" target="IN-dRG52hR0EOc9GlZPI-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IN-dRG52hR0EOc9GlZPI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-26" target="IN-dRG52hR0EOc9GlZPI-19">
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endFill=0;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-26" target="IN-dRG52hR0EOc9GlZPI-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="820" />
