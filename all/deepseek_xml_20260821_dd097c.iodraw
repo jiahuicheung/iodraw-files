@@ -58,6 +58,66 @@
         <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;dashed=1;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="9" target="4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-19" value="状态监测&#xa;副气囊高度 / 主副气囊压力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-20" value="副气囊高度 &gt; 阈值?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-21" value="主气囊压力 &lt; 副气囊压力?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-22" value="启动补气&#xa;（打开电磁阀）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-23" value="实时监测&#xa;副气囊高度 / 主副气囊压力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="780" y="130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-24" value="停止条件满足?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-25" value="停止补气&#xa;（关闭电磁阀）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-26" value="记录补气过程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-19" target="IN-dRG52hR0EOc9GlZPI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-19" target="IN-dRG52hR0EOc9GlZPI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-29" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-20" target="IN-dRG52hR0EOc9GlZPI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-30" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-21" target="IN-dRG52hR0EOc9GlZPI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-31" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;dashed=1;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-20" target="IN-dRG52hR0EOc9GlZPI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-32" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;dashed=1;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-21" target="IN-dRG52hR0EOc9GlZPI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-22" target="IN-dRG52hR0EOc9GlZPI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-23" target="IN-dRG52hR0EOc9GlZPI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-35" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-24" target="IN-dRG52hR0EOc9GlZPI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-36" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;dashed=1;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-24" target="IN-dRG52hR0EOc9GlZPI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-25" target="IN-dRG52hR0EOc9GlZPI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-26" target="IN-dRG52hR0EOc9GlZPI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
