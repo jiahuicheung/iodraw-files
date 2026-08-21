@@ -128,8 +128,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IN-dRG52hR0EOc9GlZPI-39" value="记录补气过程数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="60" y="800" width="160" height="60" as="geometry" />
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-39" value="激光测距" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
