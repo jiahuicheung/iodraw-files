@@ -94,7 +94,7 @@
         <mxCell id="IN-dRG52hR0EOc9GlZPI-30" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-21" target="IN-dRG52hR0EOc9GlZPI-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IN-dRG52hR0EOc9GlZPI-31" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;dashed=1;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-20" target="IN-dRG52hR0EOc9GlZPI-19">
+        <mxCell id="IN-dRG52hR0EOc9GlZPI-31" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-20" target="IN-dRG52hR0EOc9GlZPI-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IN-dRG52hR0EOc9GlZPI-32" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;dashed=1;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-21" target="IN-dRG52hR0EOc9GlZPI-19">
@@ -121,7 +121,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IN-dRG52hR0EOc9GlZPI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IN-dRG52hR0EOc9GlZPI-26" target="IN-dRG52hR0EOc9GlZPI-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="820" />
+              <mxPoint x="20" y="613" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
