@@ -62,7 +62,7 @@
           <mxGeometry x="50" y="583" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IN-dRG52hR0EOc9GlZPI-20" value="副气囊高度 &gt; 阈值?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="290" y="510" width="180" height="80" as="geometry" />
+          <mxGeometry x="290" y="500" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IN-dRG52hR0EOc9GlZPI-21" value="主气囊压力 &lt; 副气囊压力?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="290" y="650" width="180" height="80" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="980" y="818" />
-              <mxPoint x="980" y="630" />
+              <mxPoint x="980" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
