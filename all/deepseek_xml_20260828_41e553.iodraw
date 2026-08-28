@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="运营商核心网" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="基带处理单元 BBU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="261" y="120" width="130" height="60" as="geometry" />
+          <mxGeometry x="241" y="490" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="系留缆（光电复合缆）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="494" y="120" width="150" height="60" as="geometry" />
