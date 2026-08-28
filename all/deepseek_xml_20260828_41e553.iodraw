@@ -108,7 +108,7 @@
           <mxGeometry x="450" y="1400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-36" value="灾区用户终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;strokeColor=#1a73e8;" edge="1" parent="1" source="jiHs7gr62K44mD0XE4OR-30" target="jiHs7gr62K44mD0XE4OR-31">
           <mxGeometry relative="1" as="geometry" />
