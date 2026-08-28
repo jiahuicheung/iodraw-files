@@ -44,10 +44,10 @@
           <mxGeometry x="80" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-11" value="中继节点 1\n(道路/制高点)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="309" y="840" width="130" height="60" as="geometry" />
+          <mxGeometry x="309" y="772" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-12" value="中继节点 2\n(无人机/车辆)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="537" y="840" width="130" height="60" as="geometry" />
+          <mxGeometry x="537" y="772" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-13" value="系留气球\n空中自组网终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="775" y="840" width="150" height="60" as="geometry" />
@@ -64,9 +64,6 @@
         <mxCell id="jiHs7gr62K44mD0XE4OR-21" value="Wi-Fi / LTE 覆盖" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;strokeColor=#9673a6;" edge="1" parent="1" source="jiHs7gr62K44mD0XE4OR-14" target="jiHs7gr62K44mD0XE4OR-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jiHs7gr62K44mD0XE4OR-23" value="多跳中继链路（MESH）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontColor=#333;dashed=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="750" width="180" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-24" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="80" y="842" width="130" height="60" as="geometry" />
         </mxCell>
@@ -78,8 +75,8 @@
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-27" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="441" y="875" as="sourcePoint" />
-            <mxPoint x="534" y="865" as="targetPoint" />
+            <mxPoint x="441" y="807" as="sourcePoint" />
+            <mxPoint x="534" y="797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-28" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1">
