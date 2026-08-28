@@ -119,14 +119,11 @@
             <mxPoint x="494" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jiHs7gr62K44mD0XE4OR-41" value="系留光纤" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jiHs7gr62K44mD0XE4OR-32" target="jiHs7gr62K44mD0XE4OR-34">
+        <mxCell id="jiHs7gr62K44mD0XE4OR-41" value="&lt;b&gt;系留光纤&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jiHs7gr62K44mD0XE4OR-32" target="jiHs7gr62K44mD0XE4OR-34">
           <mxGeometry x="0.3208" y="25" relative="1" as="geometry">
             <mxPoint x="300" y="1620" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jiHs7gr62K44mD0XE4OR-42" value="Wi-Fi / LTE 覆盖" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;strokeColor=#9673a6;" edge="1" parent="1" source="jiHs7gr62K44mD0XE4OR-35" target="jiHs7gr62K44mD0XE4OR-36">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
