@@ -38,7 +38,7 @@
           <mxGeometry x="830" y="210" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-10" value="地面互联网接入点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="180" y="970" width="130" height="60" as="geometry" />
+          <mxGeometry x="80" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-11" value="中继节点 1\n(道路/制高点)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="360" y="840" width="130" height="60" as="geometry" />
@@ -54,11 +54,6 @@
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-15" value="灾区用户终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1070" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jiHs7gr62K44mD0XE4OR-16" value="有线/光纤" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;" edge="1" parent="1" target="jiHs7gr62K44mD0XE4OR-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="1000" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-17" value="MESH 链路" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;strokeColor=#d79b00;" edge="1" parent="1" source="jiHs7gr62K44mD0XE4OR-10" target="jiHs7gr62K44mD0XE4OR-11">
           <mxGeometry relative="1" as="geometry" />
