@@ -38,10 +38,10 @@
           <mxGeometry x="830" y="210" width="30" height="250" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-9" value="互联网/指挥所" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="30" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-10" value="地面网关节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="190" y="840" width="130" height="60" as="geometry" />
+          <mxGeometry x="180" y="970" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-11" value="中继节点 1\n(道路/制高点)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="360" y="840" width="130" height="60" as="geometry" />
