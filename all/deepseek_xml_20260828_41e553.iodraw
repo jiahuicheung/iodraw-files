@@ -44,7 +44,7 @@
           <mxGeometry x="80" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-11" value="中继节点 1\n(道路/制高点)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="307" y="840" width="130" height="60" as="geometry" />
+          <mxGeometry x="309" y="840" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-12" value="中继节点 2\n(无人机/车辆)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="530" y="840" width="130" height="60" as="geometry" />
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-24" value="终端节点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="80" y="842" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jiHs7gr62K44mD0XE4OR-26" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="207" y="880" as="sourcePoint" />
+            <mxPoint x="300" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
