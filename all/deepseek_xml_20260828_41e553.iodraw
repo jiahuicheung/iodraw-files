@@ -102,10 +102,10 @@
           <mxGeometry x="164" y="1590" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-34" value="系留缆光纤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1470" width="130" height="60" as="geometry" />
+          <mxGeometry x="450" y="1460" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-35" value="气球平台\n无线发射终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1360" width="140" height="60" as="geometry" />
+          <mxGeometry x="450" y="1400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jiHs7gr62K44mD0XE4OR-36" value="灾区用户终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="984" y="1300" width="120" height="60" as="geometry" />
