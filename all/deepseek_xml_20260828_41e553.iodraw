@@ -17,7 +17,7 @@
           <mxGeometry x="755" y="120" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6" value="灾区用户手机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="945" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1011" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7" value="光/电信号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="10" value="LTE 空口" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;endArrow=classic;strokeWidth=2;fontSize=10;fontColor=#333333;" parent="1" source="5" target="6" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="（→ 下行数据，← 上行数据）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=11;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="40" y="220" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
