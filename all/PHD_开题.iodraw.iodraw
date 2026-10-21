@@ -83,6 +83,39 @@
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.764;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-15" target="n8eiytrVZtOZ7U9-TIMC-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-27" target="n8eiytrVZtOZ7U9-TIMC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-27" value="&lt;div&gt;多源飞行数据整理与时间同步&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-29" target="n8eiytrVZtOZ7U9-TIMC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-29" value="&lt;div&gt;正常样本筛选与运行工况标注&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-31" target="n8eiytrVZtOZ7U9-TIMC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-31" value="&lt;div&gt;建立工况条件下的正常状态参考模型&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-33" target="n8eiytrVZtOZ7U9-TIMC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-33" value="&lt;div&gt;&lt;div&gt;计算多变量偏移程度及瞬变/缓变特征&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-35" target="n8eiytrVZtOZ7U9-TIMC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-35" value="&lt;div&gt;持续性判别、误报控制与跨架次验证&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="590" width="276" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-36" value="输出工况相关的状态偏移表征及风险候选事件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="276" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
