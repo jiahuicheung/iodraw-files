@@ -32,10 +32,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-8" value="&lt;div&gt;持续性判别、误报控制与跨架次验证&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1010" width="276" height="60" as="geometry" />
+          <mxGeometry x="354" y="1010" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-10" value="&lt;div&gt;输出工况相关的状态偏移表征及风险候选事件&lt;/div&gt;&lt;h4&gt;&lt;/h4&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="1150" width="276" height="60" as="geometry" />
+          <mxGeometry x="354" y="1150" width="276" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
