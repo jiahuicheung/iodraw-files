@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="353" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,10 +209,10 @@
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-68" target="n8eiytrVZtOZ7U9-TIMC-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n8eiytrVZtOZ7U9-TIMC-68" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;预测未来风险状态、变化趋势及不确定性&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-68" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;h3&gt;研究内容四：风险演化预测与动态预警&lt;/h3&gt;&lt;p&gt;当前状态与未来风场联合建模、多时域风险预测、边界接近概率、动态预警&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="1430" width="276" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n8eiytrVZtOZ7U9-TIMC-69" value="开展不同预测时域与不同风场条件下的对比验证" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-69" value="&lt;h3&gt;综合验证与反馈&lt;/h3&gt;&lt;p&gt;跨架次验证、风险事件回放、跨工况泛化、消融实验、在线计算性能与工程适用性分析&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="1520" width="276" height="60" as="geometry" />
         </mxCell>
       </root>
