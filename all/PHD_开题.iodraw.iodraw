@@ -113,7 +113,7 @@
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-35" value="&lt;div&gt;&lt;div&gt;风险贡献分解、敏感性分析与跨工况验证&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="920" width="276" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n8eiytrVZtOZ7U9-TIMC-36" value="输出工况相关的状态偏移表征及风险候选事件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-36" value="输出综合风险状态、主要贡献因素及其不确定性" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="970" width="276" height="30" as="geometry" />
         </mxCell>
       </root>
