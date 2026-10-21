@@ -191,7 +191,7 @@
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-62" target="n8eiytrVZtOZ7U9-TIMC-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n8eiytrVZtOZ7U9-TIMC-62" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;当前环境信息与未来风场预报&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-62" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;h3&gt;研究内容一：状态表征与风险因子提取&lt;/h3&gt;&lt;p&gt;条件正常状态模型、多尺度偏移辨识、关键风险因子与可解释表达&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1160" width="276" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-64" target="n8eiytrVZtOZ7U9-TIMC-66">
