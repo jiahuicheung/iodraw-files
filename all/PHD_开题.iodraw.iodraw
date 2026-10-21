@@ -198,7 +198,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-64" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;构建当前状态—未来环境联合输入&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1255" width="276" height="60" as="geometry" />
+          <mxGeometry x="720" y="1250" width="276" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-66" target="n8eiytrVZtOZ7U9-TIMC-68">
           <mxGeometry relative="1" as="geometry" />
@@ -213,7 +213,7 @@
           <mxGeometry x="720" y="1440" width="276" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-69" value="开展不同预测时域与不同风场条件下的对比验证" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1550" width="276" height="30" as="geometry" />
+          <mxGeometry x="720" y="1540" width="276" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
