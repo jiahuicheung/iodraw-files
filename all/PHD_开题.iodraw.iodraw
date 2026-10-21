@@ -210,10 +210,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-68" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;预测未来风险状态、变化趋势及不确定性&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1465" width="276" height="30" as="geometry" />
+          <mxGeometry x="720" y="1440" width="276" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-69" value="开展不同预测时域与不同风场条件下的对比验证" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1515" width="276" height="30" as="geometry" />
+          <mxGeometry x="720" y="1550" width="276" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
