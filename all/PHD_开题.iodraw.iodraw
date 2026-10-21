@@ -146,7 +146,7 @@
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-46" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;利用独立事件、试验或仿真开展关系检验&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="1270" width="276" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n8eiytrVZtOZ7U9-TIMC-47" value="输出综合风险状态、主要贡献因素及其不确定性" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-47" value="识别关键风险组合、潜在传播路径并改进融合模型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="1320" width="276" height="30" as="geometry" />
         </mxCell>
       </root>
