@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1436" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="353" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,35 +119,35 @@
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-38" target="n8eiytrVZtOZ7U9-TIMC-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n8eiytrVZtOZ7U9-TIMC-38" value="&lt;div&gt;&lt;div&gt;关键风险因子 + 风险识别结果 + 可信度信息&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="730" width="276" height="30" as="geometry" />
+        <mxCell id="n8eiytrVZtOZ7U9-TIMC-38" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;关键风险因子与系统级风险评估结果&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1070" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-40" target="n8eiytrVZtOZ7U9-TIMC-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-40" value="&lt;div&gt;&lt;div&gt;风险指标分层与统一量纲表达&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="780" width="276" height="30" as="geometry" />
+          <mxGeometry x="60" y="1120" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-42" target="n8eiytrVZtOZ7U9-TIMC-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-42" value="&lt;div&gt;&lt;div&gt;风险权重、概率关系与因子依赖分析&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="830" width="276" height="30" as="geometry" />
+          <mxGeometry x="60" y="1170" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-44" target="n8eiytrVZtOZ7U9-TIMC-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-44" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;多源风险定量融合与综合风险状态计算&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="880" width="276" height="30" as="geometry" />
+          <mxGeometry x="60" y="1220" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n8eiytrVZtOZ7U9-TIMC-46" target="n8eiytrVZtOZ7U9-TIMC-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-46" value="&lt;div&gt;&lt;div&gt;风险贡献分解、敏感性分析与跨工况验证&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="930" width="276" height="30" as="geometry" />
+          <mxGeometry x="60" y="1270" width="276" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8eiytrVZtOZ7U9-TIMC-47" value="输出综合风险状态、主要贡献因素及其不确定性" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="980" width="276" height="30" as="geometry" />
+          <mxGeometry x="60" y="1320" width="276" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
