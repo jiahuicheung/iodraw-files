@@ -823,10 +823,10 @@
           <mxGeometry x="2140" y="3638" width="1440" height="52" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="3716" width="700" height="390" as="geometry" />
+          <mxGeometry x="2140" y="3716" width="440" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b&gt;（1）风险识别与评估结果的验证&lt;/b&gt;——利用历史飞行数据检验评估结果的可信度" style="text;html=1;fontSize=12;fontStyle=1;align=left;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
-          <mxGeometry x="2156" y="3722" width="660" height="38" as="geometry" />
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b&gt;（1）风险识别与评估结果的验证&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
+          <mxGeometry x="2156" y="3722" width="414" height="38" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;b&gt;① 数据划分&lt;/b&gt;：&lt;div&gt;以&lt;b&gt;完整架次和独立风险事件&lt;/b&gt;为划分单位，同一事件不拆散到训练集与测试集 → 消除同一架次内时间相关性对指标的影响&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2154" y="3768" width="400" height="58" as="geometry" />
