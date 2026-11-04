@@ -573,14 +573,14 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-203" value="有效工况范围回填" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.72;exitDx=0;exitDy=0;entryX=1;entryY=0.72;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;fontSize=10;fontColor=#2F5C8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-195" target="a1F_uhm3ZJby7PDIXVdp-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-204" value="条件化正常参考 → 前层“可信正常区”判据" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.188;entryY=0.087;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;entryPerimeter=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-194" target="a1F_uhm3ZJby7PDIXVdp-197">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-204" value="条件化正常参考 → 前层“可信正常区”判据" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.3;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-194">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2820" y="340" />
-              <mxPoint x="3108" y="340" />
-              <mxPoint x="3108" y="383" />
+              <mxPoint x="3110" y="340" />
               <mxPoint x="3110" y="383" />
             </Array>
+            <mxPoint x="3110" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-205" value="风险因子与各类画像的主导因子" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.6;exitY=1;exitDx=0;exitDy=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-195" target="a1F_uhm3ZJby7PDIXVdp-197">
