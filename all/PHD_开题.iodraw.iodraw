@@ -757,7 +757,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-261" value="&lt;b&gt;① 控制目标与优先级&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2460" y="2692" width="640" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-262" value="&lt;b&gt;② 算法谱系（由简到繁，同场景集比较适用条件）&lt;/b&gt;：规则 + 增益调度（工程基线）→ 约束优化（多通道协同与硬约束）→ 鲁棒/自适应（参数漂移）→ 数据驱动残差补偿（可选增强）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-262" value="&lt;b&gt;② 控制算法集&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2460" y="2766" width="640" height="62" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-263" value="&lt;b&gt;③ 多通道分配与冲突消解&lt;/b&gt;：分配顺序为保障边界 → 降低等级 → 节约代价；通道冲突（如放气降压缓解超压但加大失压风险）以&lt;b&gt;最薄弱约束的裕度&lt;/b&gt;为消解依据，不以综合风险分数为判据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
