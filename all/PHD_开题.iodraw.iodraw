@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1628" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -719,11 +719,8 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-245" value="图2.3.3　风险工况下的自适应控制：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2430" y="2110" width="1440" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-246" value="&lt;b&gt;要解决的难点&lt;/b&gt;：系留气球风险后果高度集中且&lt;b&gt;不可逆&lt;/b&gt;——囊体压力超过结构承载会破裂，压力过低会失去气动外形并丧失操纵能力，系缆张力超过许用值会引发脱系。风险发生后平台动态与正常状态显著不同（浮力与压差失衡、系留约束突变、执行机构能力下降、外部扰动加剧），按正常工况整定的控制算法会因&lt;b&gt;模型失配&lt;/b&gt;而失效，常规控制不再满足适用条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="2146" width="1440" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-247" value="&lt;b&gt;研究目标&lt;/b&gt;：建立面向控制的对象模型以支撑风险工况下的控制算法，并给出&lt;b&gt;失控判定&lt;/b&gt;与&lt;b&gt;人工接管方案&lt;/b&gt;；使平台在不越界的前提下尽快退出风险状态，明确自动调节的能力边界与接管触发时机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="2222" width="1440" height="56" as="geometry" />
+          <mxGeometry x="2430" y="2150" width="1440" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-248" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2430" y="2294" width="1440" height="290" as="geometry" />
