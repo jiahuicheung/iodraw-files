@@ -820,7 +820,7 @@
           <mxGeometry x="2140" y="3453" width="1440" height="54" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-282" value="&lt;b&gt;统一验证基础&lt;/b&gt;：同一场景集、同一基线与评价指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#1F6FB2;fontSize=12;align=center;verticalAlign=middle;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="3638" width="1440" height="52" as="geometry" />
+          <mxGeometry x="2140" y="3638" width="1160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2140" y="3716" width="440" height="390" as="geometry" />
@@ -838,7 +838,7 @@
           <mxGeometry x="2154" y="3908" width="400" height="92" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="3716" width="700" height="390" as="geometry" />
+          <mxGeometry x="2880" y="3716" width="430" height="390" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-290" value="&lt;b&gt;（2）控制算法的验证&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="2896" y="3722" width="394" height="38" as="geometry" />
