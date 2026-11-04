@@ -642,10 +642,10 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-227" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;① 扰动对象与方式&lt;/b&gt;：&lt;div&gt;合成模型确定后，对因子施加系统扰动，考察其对风险等级、综合风险值的影响&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2460" y="1433" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-228" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;敏感区间分析&lt;/b&gt;：同一因子在不同工况、不同风险等级下排序不同，通过区间的形式描述" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-228" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;敏感区间分析&lt;/b&gt;：&lt;div&gt;同一因子在不同工况、不同风险等级下排序不同，通过区间的形式描述&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2460" y="1501" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-230" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;③&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;输出&lt;/b&gt;：为研究内容三确定调节与监测的优先顺序提供依据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-230" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;③&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;输出&lt;/b&gt;：&lt;div&gt;为研究内容三确定调节与监测的优先顺序提供依据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2460" y="1570" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-231" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
@@ -654,10 +654,10 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-232" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（3）综合风险评估的动态预测&lt;/b&gt;——当前评估只反映当前时刻，而风险处置需要提前量" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="3093" y="1389" width="660" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;①&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;约束&lt;/b&gt;：以工程边界和因子间共因关系作为约束，避免预测结果越过物理上不可达的状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;①&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;约束&lt;/b&gt;：&lt;div&gt;以工程边界和因子间共因关系作为约束，避免预测结果越过物理上不可达的状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3148" y="1433" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;误差与可信度分析&lt;/b&gt;：结合气象风场预告精度及预测算法误差，给出最终预测可信度的判别条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;误差与可信度分析&lt;/b&gt;：&lt;div&gt;结合气象风场预告精度及预测算法误差，给出最终预测可信度的判别条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3148" y="1501" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;③&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;输出&lt;/b&gt;：为后续控制决策中的&lt;b style=&quot;font-size: 16px;&quot;&gt;处置时机判断&lt;/b&gt;提供输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
