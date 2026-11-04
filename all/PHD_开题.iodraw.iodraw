@@ -366,7 +366,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-93" value="&lt;b&gt;课题总目标&lt;/b&gt;：面向长航时系留气球安全运行需求，建立由&lt;b&gt;风险状态表征与感知 → 系统综合风险评估 → 风险工况适配控制 → 统一验证&lt;/b&gt;构成的方法框架；研究逻辑遵循系统风险管理中&lt;b&gt;风险识别—评价—控制&lt;/b&gt;的基本路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-93" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;课题总目标&lt;/b&gt;：面向长航时系留气球安全运行需求，建立由&lt;b style=&quot;font-size: 14px;&quot;&gt;风险状态表征与感知 → 系统综合风险评估 → 风险工况适配控制 → 统一验证&lt;/b&gt;构成的方法框架；研究逻辑遵循系统风险管理中&lt;b style=&quot;font-size: 14px;&quot;&gt;风险识别—评价—控制&lt;/b&gt;的基本路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=14;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="1476" y="-726" width="1304" height="52" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-94" value="风险状态表征与感知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
