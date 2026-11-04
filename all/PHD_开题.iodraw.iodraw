@@ -855,7 +855,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b&gt;③ 半物理试验&lt;/b&gt;：引入执行机构、传感器等；重点观察&lt;b&gt;与人工接管触发逻辑&lt;/b&gt;是否按预期工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2894" y="3908" width="672" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b&gt;④ 结果评估&lt;/b&gt;：评估仿真结论在何种条件下可外推至外场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b&gt;④ 结果评估&lt;/b&gt;：评估仿真结论在何种条件下可应用于实际的工程飞行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2894" y="4012" width="672" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-283">
