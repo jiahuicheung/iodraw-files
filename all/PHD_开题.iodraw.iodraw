@@ -539,9 +539,6 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-192" value="&lt;b&gt;核心问题&lt;/b&gt;：系留气球在不同高度、风场、运行阶段与姿态运动条件下，正常响应本身即有明显变化——如何从多源飞行数据中区分“工况引起的正常响应”与“风险引起的异常偏移”；如何将其转换为工程含义明确、可供后续使用的风险因子；并说明当前状态更像哪类已知风险、是否属于未知、结论有多可信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="2694" y="70" width="1380" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-193" value="&lt;b&gt;研究目标与交付&lt;/b&gt;：建立不同工况下的正常状态参考与状态偏移度量，给出偏移可被辨识的判据，形成 &lt;b&gt;6~8 个可观测、跨工况稳定&lt;/b&gt;的关键风险因子；按机理构建典型风险画像库，输出&lt;b&gt;候选画像概率、未知标记与可信度&lt;/b&gt;，作为 2.3.2 系统综合评估的输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="2694" y="148" width="1380" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-194" value="&lt;b&gt;（1）复杂工况下的正常状态建模与风险偏移辨识&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 观测变量三分类：环境与任务条件 / 系统响应 / 设备与控制状态&lt;br&gt;· 正常状态描述为&lt;b&gt;条件分布&lt;/b&gt;而非全局分布&lt;br&gt;· 三层面偏移度量：整体偏离、单变量越界程度、时间结构（瞬时冲击 / 短时振荡 / 持续恶化）&lt;br&gt;· 敏感性分析：工况划分粒度 × 有效样本量 × 噪声水平 → &lt;b&gt;可辨识半径&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;交付：条件化正常参考 · 多尺度偏移指标 · 可辨识半径估计流程 · 正常/关注/风险候选三档偏移证据&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
           <mxGeometry x="2694" y="226" width="420" height="230" as="geometry" />
         </mxCell>
@@ -560,11 +557,15 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-199" value="&lt;b&gt;输出至 2.3.2 系统综合风险评估&lt;/b&gt;：状态表征 · 关键风险因子 · 候选画像概率 · 未知标记 · 分级可信度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=12;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="2944" y="906" width="820" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.15;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-193" target="a1F_uhm3ZJby7PDIXVdp-194">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.15;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-194">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2901.000000000002" y="204" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.55;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-193" target="a1F_uhm3ZJby7PDIXVdp-195">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.55;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3452.999999999999" y="204" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-202" value="因子作为偏移度量的对象" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.28;exitDx=0;exitDy=0;entryX=0;entryY=0.28;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;fontSize=10;fontColor=#2F5C8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-194" target="a1F_uhm3ZJby7PDIXVdp-195">
           <mxGeometry relative="1" as="geometry" />
