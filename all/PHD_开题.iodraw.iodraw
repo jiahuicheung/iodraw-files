@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="740" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,8 +690,13 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-240" value="敏感区间与共因结构回修聚合权重、边界设定与指标体系" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.12;exitY=0;exitDx=0;exitDy=0;entryX=0.12;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-225" target="a1F_uhm3ZJby7PDIXVdp-214">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-241" value="预测可信度判别条件回馈综合评估的可信度与趋势提示" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.88;exitY=0;exitDx=0;exitDy=0;entryX=0.88;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-231" target="a1F_uhm3ZJby7PDIXVdp-214">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-241" value="预测可信度判别条件回馈综合评估的可信度与趋势提示" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.88;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-214">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3697" y="1383" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3697" y="1383" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-242" value="&lt;b&gt;输出至 2.3.3 风险工况适配控制&lt;/b&gt;：风险等级 · 主要贡献因子 · 画像判定 · 可信度 · 关键敏感因子与敏感区间 · 未来短时趋势提示与预测可信度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=12;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="2430" y="1755" width="1440" height="60" as="geometry" />
