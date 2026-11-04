@@ -639,7 +639,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-226" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（2）风险因子的敏感性分析&lt;/b&gt;——哪些因子更容易影响综合评估结果" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="2405" y="1389" width="660" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-227" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;① 扰动对象与方式&lt;/b&gt;：合成模型确定后，对因子施加系统扰动，考察其对风险等级、综合风险值的影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-227" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;① 扰动对象与方式&lt;/b&gt;：&lt;div&gt;合成模型确定后，对因子施加系统扰动，考察其对风险等级、综合风险值的影响&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2460" y="1433" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-228" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;敏感区间分析&lt;/b&gt;：同一因子在不同工况、不同风险等级下排序不同，通过区间的形式描述" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
