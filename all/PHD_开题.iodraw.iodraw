@@ -634,7 +634,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-225" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="1383" width="700" height="340" as="geometry" />
+          <mxGeometry x="2430" y="1383" width="700" height="267" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-226" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（2）风险因子的敏感性分析&lt;/b&gt;——哪些因子更容易影响综合评估结果" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="2446" y="1389" width="660" height="36" as="geometry" />
@@ -646,7 +646,7 @@
           <mxGeometry x="2460" y="1501" width="640" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-230" value="&lt;b&gt;③&lt;/b&gt;&lt;b&gt;&amp;nbsp;输出&lt;/b&gt;：因子敏感性排序、敏感区间、交互效应、分层敏感性图谱；&lt;b&gt;关键少数因子清单&lt;/b&gt; → 为研究内容三确定调节与监测的优先顺序提供依据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="1637" width="640" height="56" as="geometry" />
+          <mxGeometry x="2460" y="1570" width="640" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-231" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="3170" y="1383" width="700" height="340" as="geometry" />
@@ -661,7 +661,7 @@
           <mxGeometry x="3200" y="1501" width="640" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b&gt;③&amp;nbsp;&lt;/b&gt;&lt;b&gt;输出&lt;/b&gt;：未来短时风险等级、趋势提示及预测可信度 → 为后续控制决策中的&lt;b&gt;处置时机判断&lt;/b&gt;提供输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="1637" width="640" height="56" as="geometry" />
+          <mxGeometry x="3200" y="1570" width="640" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.243;exitY=1.013;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-214" target="a1F_uhm3ZJby7PDIXVdp-225">
           <mxGeometry relative="1" as="geometry">
