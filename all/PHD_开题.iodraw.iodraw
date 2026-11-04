@@ -829,13 +829,13 @@
           <mxGeometry x="2156" y="3722" width="660" height="38" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;b&gt;① 数据划分&lt;/b&gt;：&lt;div&gt;以&lt;b&gt;完整架次和独立风险事件&lt;/b&gt;为划分单位，同一事件不拆散到训练集与测试集 → 消除同一架次内时间相关性对指标的影响&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2154" y="3768" width="672" height="58" as="geometry" />
+          <mxGeometry x="2154" y="3768" width="400" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-286" value="&lt;b&gt;② 验证集场景组织&lt;/b&gt;：&lt;div&gt;覆盖不同风险形态和工况条件，检验评估结论在不同场景下的适用性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2154" y="3838" width="672" height="58" as="geometry" />
+          <mxGeometry x="2154" y="3838" width="400" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b&gt;③ 评价内容&lt;/b&gt;&lt;br&gt;· 事件级召回率与误报率&lt;br&gt;· 风险等级与排序的一致性&lt;br&gt;· 主要贡献因子与敏感性排序的稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2154" y="3908" width="672" height="92" as="geometry" />
+          <mxGeometry x="2154" y="3908" width="400" height="92" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2880" y="3716" width="700" height="390" as="geometry" />
@@ -844,16 +844,16 @@
           <mxGeometry x="2896" y="3722" width="660" height="38" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-291" value="&lt;b&gt;① 被控对象&lt;/b&gt;：&lt;b&gt;建立对象模型及约束&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2894" y="3768" width="672" height="58" as="geometry" />
+          <mxGeometry x="2894" y="3768" width="400" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-292" value="&lt;b&gt;② 仿真场景&lt;/b&gt;：考虑不同初始风险等级、检验算法在&lt;b&gt;接近边界与远离边界&lt;/b&gt;的工作点上的适应性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2894" y="3838" width="672" height="58" as="geometry" />
+          <mxGeometry x="2894" y="3838" width="400" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b&gt;③ 半物理试验&lt;/b&gt;：引入执行机构、传感器等；重点观察&lt;b&gt;与人工接管触发逻辑&lt;/b&gt;是否按预期工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2894" y="3908" width="672" height="92" as="geometry" />
+          <mxGeometry x="2894" y="3908" width="400" height="92" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b&gt;④ 结果评估&lt;/b&gt;：评估仿真结论在何种条件下可应用于实际的工程飞行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2894" y="4012" width="672" height="80" as="geometry" />
+          <mxGeometry x="2894" y="4012" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-283">
           <mxGeometry relative="1" as="geometry" />
