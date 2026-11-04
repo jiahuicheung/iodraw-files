@@ -782,12 +782,13 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-271" value="被控对象与约束来源" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.16;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-248" target="a1F_uhm3ZJby7PDIXVdp-259">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-272" value="对象模型与安全域边界" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.78;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-248" target="a1F_uhm3ZJby7PDIXVdp-265">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-272" value="对象模型与安全域边界" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.55;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3553" y="2618" />
               <mxPoint x="3555" y="2618" />
             </Array>
+            <mxPoint x="3420" y="2520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-273" value="可执行动作集与控制能力" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.42;exitDx=0;exitDy=0;entryX=0;entryY=0.42;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-259" target="a1F_uhm3ZJby7PDIXVdp-265">
