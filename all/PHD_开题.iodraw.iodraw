@@ -491,7 +491,7 @@
           <mxGeometry x="3570" y="-545" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-157" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容三　风险工况适配控制&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;i&gt;回答问题四：把“何时必须转为减损与人工接管”给出可判定依据&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="-415" width="340" height="80" as="geometry" />
+          <mxGeometry x="3570" y="-445" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.3;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-151">
           <mxGeometry relative="1" as="geometry">
@@ -504,7 +504,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.3;exitDx=0;exitDy=0;entryX=0;entryY=0.62;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-152" target="a1F_uhm3ZJby7PDIXVdp-155">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3460" y="-555" />
+              <mxPoint x="3460" y="-580" />
+              <mxPoint x="3570" y="-580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-153" target="a1F_uhm3ZJby7PDIXVdp-156">
           <mxGeometry relative="1" as="geometry" />
