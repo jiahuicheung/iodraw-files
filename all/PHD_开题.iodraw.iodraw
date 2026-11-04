@@ -314,7 +314,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-75" value="人不再处于回路中 → 故障处置时延由人的响应速度转为系统的决策速度 → 遥控受阻时控制权交由球载自主决策" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#7A5C00;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-69">
           <mxGeometry x="15" y="80" width="1090" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-76" value="对照：有人值守模式下的故障处置链条（依赖人的在场与响应速度）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;dashed=1;verticalAlign=top;fontStyle=1;fontSize=12;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-76" value="有人值守模式下的故障处置链条" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;dashed=1;verticalAlign=top;fontStyle=1;fontSize=12;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="95" y="-430" width="1120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-77" value="报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=12;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
