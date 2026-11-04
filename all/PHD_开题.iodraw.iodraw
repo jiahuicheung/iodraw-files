@@ -819,13 +819,13 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-281" value="&lt;b&gt;研究目标&lt;/b&gt;：建立覆盖评估与控制两方面的验证方案，明确&lt;b&gt;数据来源、场景设置、基线与评价指标&lt;/b&gt;，形成可复现的验证流程；并按&lt;b&gt;技术性能验证、工程可用性、实飞验证&lt;/b&gt;三级标注结论的适用范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="2140" y="3453" width="1440" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-282" value="&lt;b&gt;统一验证基础&lt;/b&gt;：同一场景集、同一基线与评价指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#1F6FB2;fontSize=12;align=center;verticalAlign=middle;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-282" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;统一验证基础&lt;/b&gt;：同一场景集、同一基线与评价指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#1F6FB2;fontSize=16;align=center;verticalAlign=middle;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="2140" y="3638" width="980" height="52" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2140" y="3716" width="440" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b&gt;（1）风险识别与评估结果的验证&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）风险识别与评估结果的验证&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
           <mxGeometry x="2156" y="3722" width="414" height="38" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;① 数据划分&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;以&lt;span style=&quot;font-size: 15px;&quot;&gt;完整架次和独立风险事件&lt;/span&gt;为划分单位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
@@ -840,7 +840,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2677" y="3716" width="430" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-290" value="&lt;b&gt;（2）控制算法的验证&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-290" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（2）控制算法的验证&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="2693" y="3722" width="394" height="38" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-291" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;① 被控对象&lt;/b&gt;：&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;建立对象模型及约束&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
