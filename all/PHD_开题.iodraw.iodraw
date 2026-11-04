@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1436" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="2205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -536,9 +536,6 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-191" value="图2.3.1　复杂工况下的风险感知与因子提取：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2694" y="60" width="1380" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-192" value="&lt;b&gt;核心问题&lt;/b&gt;：系留气球在不同高度、风场、运行阶段与姿态运动条件下，正常响应本身即有明显变化——如何从多源飞行数据中区分“工况引起的正常响应”与“风险引起的异常偏移”；如何将其转换为工程含义明确、可供后续使用的风险因子；并说明当前状态更像哪类已知风险、是否属于未知、结论有多可信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="2694" y="137" width="1380" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-194" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）复杂工况下的正常状态建模与风险偏移辨识&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
           <mxGeometry x="2694" y="226" width="420" height="80" as="geometry" />
         </mxCell>
@@ -560,11 +557,6 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.15;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-194">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2901.000000000002" y="204" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.55;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-195">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3452.999999999999" y="204" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-202" value="因子作为偏移度量的对象" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.28;exitDx=0;exitDy=0;entryX=0;entryY=0.28;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;fontSize=10;fontColor=#2F5C8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-194" target="a1F_uhm3ZJby7PDIXVdp-195">
