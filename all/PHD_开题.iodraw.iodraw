@@ -649,19 +649,19 @@
           <mxGeometry x="2460" y="1570" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-231" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="3170" y="1383" width="700" height="267" as="geometry" />
+          <mxGeometry x="3100" y="1383" width="610" height="267" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-232" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（3）综合风险评估的动态预测&lt;/b&gt;——当前评估只反映当前时刻，而风险处置需要提前量" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="3186" y="1389" width="660" height="36" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b&gt;①&amp;nbsp;&lt;/b&gt;&lt;b&gt;约束&lt;/b&gt;：以工程边界和因子间共因关系作为约束，避免预测结果越过物理上不可达的状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="1433" width="550" height="56" as="geometry" />
+          <mxGeometry x="3130" y="1433" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b&gt;②&amp;nbsp;&lt;/b&gt;&lt;b&gt;误差与可信度分析&lt;/b&gt;：结合气象风场预告精度及预测算法误差，给出最终预测可信度的判别条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="1501" width="550" height="56" as="geometry" />
+          <mxGeometry x="3130" y="1501" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b&gt;③&amp;nbsp;&lt;/b&gt;&lt;b&gt;输出&lt;/b&gt;：为后续控制决策中的&lt;b&gt;处置时机判断&lt;/b&gt;提供输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="1570" width="550" height="56" as="geometry" />
+          <mxGeometry x="3130" y="1570" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.243;exitY=1.013;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-214" target="a1F_uhm3ZJby7PDIXVdp-225">
           <mxGeometry relative="1" as="geometry">
