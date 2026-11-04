@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="6105" dy="4794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="2619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -608,7 +608,7 @@
           <mxGeometry x="2430" y="1154" width="1300" height="166" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-215" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（1）综合风险状态评估&lt;/b&gt;——底层观测、中层因子、顶层系统风险三层指标体系；合成环节处理共因重复计量与非补偿性两个问题" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
-          <mxGeometry x="2446" y="1160" width="1400" height="40" as="geometry" />
+          <mxGeometry x="2446" y="1160" width="1274" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-216" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;① 三层指标体系&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;底层观测 → 中层因子 → 顶层风险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2454" y="1210" width="264" height="80" as="geometry" />
