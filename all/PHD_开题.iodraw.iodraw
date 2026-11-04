@@ -600,13 +600,12 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-208" value="校准结果回修拒识阈值与相似度判据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-209" value="可信度分级回传：低可信结果不参与定量合成，并修正前级判定阈值" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.85;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-194">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-209" value="可信度分级回传：低可信结果不参与定量合成，并修正前级判定阈值" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-194">
           <mxGeometry x="0.2764" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2960" y="580" />
               <mxPoint x="2640" y="580" />
               <mxPoint x="2640" y="266" />
-              <mxPoint x="2694" y="266" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
