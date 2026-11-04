@@ -868,10 +868,10 @@
           <mxGeometry x="2140" y="4142" width="980" height="86" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-299" value="&lt;b&gt;技术性能验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
-          <mxGeometry x="13.61111111111111" y="30" width="204.16666666666669" height="44" as="geometry" />
+          <mxGeometry x="27.61111111111111" y="30" width="204.16666666666669" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-300" value="&lt;b&gt;工程可用性&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
-          <mxGeometry x="230.0277777777778" y="30" width="204.16666666666669" height="44" as="geometry" />
+          <mxGeometry x="376" y="30" width="204.16666666666669" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-301" value="&lt;b&gt;实飞验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
           <mxGeometry x="723.7638888888889" y="30" width="204.16666666666669" height="44" as="geometry" />
