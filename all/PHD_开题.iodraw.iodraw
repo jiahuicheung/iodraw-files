@@ -554,7 +554,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-198" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（4）风险感知结果的不确定性与可信度分级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2960" y="535" width="800" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-199" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输出至 2.3.2 系统综合风险评估&lt;/span&gt;：状态表征 · 关键风险因子 · 候选画像概率 · 未知标记 · 分级可信度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-199" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 系统综合风险评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2950" y="696" width="820" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.15;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-194">
