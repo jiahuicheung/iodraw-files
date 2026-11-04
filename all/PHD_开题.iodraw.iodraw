@@ -657,7 +657,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b&gt;①&amp;nbsp;&lt;/b&gt;&lt;b&gt;约束&lt;/b&gt;：以工程边界和因子间共因关系作为约束，避免预测结果越过物理上不可达的状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3200" y="1433" width="640" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b&gt;②&amp;nbsp;&lt;/b&gt;&lt;b&gt;误差与可信度分析&lt;/b&gt;：给出预测可信度的判别条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b&gt;②&amp;nbsp;&lt;/b&gt;&lt;b&gt;误差与可信度分析&lt;/b&gt;：结合气象风场预告精度及预测算法误差，给出最终预测可信度的判别条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3200" y="1501" width="640" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b&gt;③&amp;nbsp;&lt;/b&gt;&lt;b&gt;输出&lt;/b&gt;：未来短时风险等级、趋势提示及预测可信度 → 为后续控制决策中的&lt;b&gt;处置时机判断&lt;/b&gt;提供输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
