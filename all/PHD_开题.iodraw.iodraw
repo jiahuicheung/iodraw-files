@@ -537,13 +537,13 @@
           <mxGeometry x="2694" y="60" width="1380" height="28" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-194" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）复杂工况下的正常状态建模与风险偏移辨识&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="2730" y="226" width="420" height="80" as="geometry" />
+          <mxGeometry x="2730" y="226" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-195" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（2）典型风险因子提取&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="3194" y="226" width="420" height="80" as="geometry" />
+          <mxGeometry x="3194" y="226" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-196" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;数据条件约束&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="3654" y="226" width="420" height="80" as="geometry" />
+          <mxGeometry x="3654" y="226" width="350" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-197" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（3）少样本条件下的风险画像归类与未知风险拒识&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7EA;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2960" y="383" width="800" height="80" as="geometry" />
@@ -591,8 +591,8 @@
           <mxGeometry x="0.2764" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2960" y="580" />
-              <mxPoint x="2640" y="580" />
-              <mxPoint x="2640" y="266" />
+              <mxPoint x="2680" y="580" />
+              <mxPoint x="2680" y="266" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
