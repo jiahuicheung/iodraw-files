@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1744" dy="2205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -605,7 +605,7 @@
           <mxGeometry x="2430" y="1028" width="1440" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-214" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="1154" width="1440" height="166" as="geometry" />
+          <mxGeometry x="2430" y="1154" width="1300" height="166" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-215" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（1）综合风险状态评估&lt;/b&gt;——底层观测、中层因子、顶层系统风险三层指标体系；合成环节处理共因重复计量与非补偿性两个问题" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
           <mxGeometry x="2446" y="1160" width="1400" height="40" as="geometry" />
@@ -637,7 +637,7 @@
           <mxGeometry x="2430" y="1383" width="610" height="267" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-226" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（2）风险因子的敏感性分析&lt;/b&gt;——哪些因子更容易影响综合评估结果" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
-          <mxGeometry x="2446" y="1389" width="660" height="36" as="geometry" />
+          <mxGeometry x="2405" y="1389" width="660" height="36" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-227" value="&lt;b&gt;① 扰动对象与方式&lt;/b&gt;：合成模型确定后，对因子施加系统扰动，考察其对风险等级、综合风险值的影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2460" y="1433" width="550" height="56" as="geometry" />
