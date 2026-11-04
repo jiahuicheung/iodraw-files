@@ -660,10 +660,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b&gt;②&amp;nbsp;&lt;/b&gt;&lt;b&gt;误差与可信度分析&lt;/b&gt;：针对小样本与工况切换，分析预测误差随&lt;b&gt;预测步长 × 工况稳定程度 × 样本覆盖&lt;/b&gt;的变化，给出预测可信度的判别条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3200" y="1501" width="640" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-235" value="&lt;b&gt;③ 误差与可信度分析&lt;/b&gt;：针对小样本与工况切换，分析预测误差随&lt;b&gt;预测步长 × 工况稳定程度 × 样本覆盖&lt;/b&gt;的变化，给出预测可信度的判别条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="1569" width="640" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b&gt;④ 输出&lt;/b&gt;：未来短时风险等级、趋势提示及预测可信度 → 为后续控制决策中的&lt;b&gt;处置时机判断&lt;/b&gt;提供输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b&gt;③&amp;nbsp;&lt;/b&gt;&lt;b&gt;输出&lt;/b&gt;：未来短时风险等级、趋势提示及预测可信度 → 为后续控制决策中的&lt;b&gt;处置时机判断&lt;/b&gt;提供输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3200" y="1637" width="640" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.243;exitY=1.013;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-214" target="a1F_uhm3ZJby7PDIXVdp-225">
