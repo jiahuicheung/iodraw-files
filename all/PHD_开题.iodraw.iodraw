@@ -725,7 +725,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-248" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2430" y="2294" width="1440" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-249" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（1）控制对象建模与临界分析&lt;/b&gt;——把已发生的风险事件建模为控制算法可用的对象，建模工作围绕&lt;b style=&quot;font-size: 15px;&quot;&gt;临界条件&lt;/b&gt;展开" style="text;html=1;fontSize=15;fontStyle=1;align=left;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-249" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）控制对象建模与临界分析&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
           <mxGeometry x="2446" y="2300" width="1400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-250" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 风险状态下的被控对象建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
