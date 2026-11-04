@@ -614,13 +614,13 @@
           <mxGeometry x="2454" y="1210" width="264" height="220" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-217" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 统一表达与边界归一化&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;连续量 + 工况条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="2742" y="1210" width="264" height="220" as="geometry" />
+          <mxGeometry x="2742" y="1210" width="264" height="150" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-218" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 共因归并&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;避免同一风险触发因素被重复计量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="1210" width="264" height="220" as="geometry" />
+          <mxGeometry x="3030" y="1210" width="264" height="150" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-220" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;⑤ 可解释输出&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;合成结果可分解、可追溯至原始观测值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FF;strokeColor=#1F6FB2;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="3319" y="1210" width="264" height="220" as="geometry" />
+          <mxGeometry x="3319" y="1210" width="264" height="150" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-216" target="a1F_uhm3ZJby7PDIXVdp-217">
           <mxGeometry relative="1" as="geometry" />
