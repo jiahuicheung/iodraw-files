@@ -473,7 +473,7 @@
           <mxGeometry x="4030" y="-684" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-151" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题一　复杂工况下风险状态的可辨识性&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=top;spacingLeft=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3040" y="-644" width="310" height="100" as="geometry" />
+          <mxGeometry x="3040" y="-644" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-152" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题二　有限样本条件下的风险判别&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=top;spacingLeft=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3040" y="-534" width="310" height="100" as="geometry" />
