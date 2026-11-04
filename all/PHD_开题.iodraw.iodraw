@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1526" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -669,8 +669,13 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b&gt;④ 输出&lt;/b&gt;：未来短时风险等级、趋势提示及预测可信度 → 为后续控制决策中的&lt;b&gt;处置时机判断&lt;/b&gt;提供输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3200" y="1637" width="640" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-237" value="合成模型为敏感性分析的扰动对象" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-214" target="a1F_uhm3ZJby7PDIXVdp-225">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-237" value="合成模型为敏感性分析的扰动对象" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.242;exitY=0.997;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-214" target="a1F_uhm3ZJby7PDIXVdp-225">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2779" y="1352" />
+              <mxPoint x="2780" y="1352" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-238" value="综合风险状态序列为预测提供基准" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.68;exitY=1;exitDx=0;exitDy=0;entryX=0.32;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-214" target="a1F_uhm3ZJby7PDIXVdp-231">
           <mxGeometry relative="1" as="geometry">
