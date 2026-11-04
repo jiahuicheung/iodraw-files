@@ -317,13 +317,13 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-76" value="有人值守模式下的故障处置链条" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;dashed=1;verticalAlign=top;fontStyle=1;fontSize=12;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="95" y="-430" width="1120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-77" value="报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=12;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-77" value="报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=12;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
           <mxGeometry x="15" y="36" width="170" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-78" value="人工判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=12;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-78" value="人工判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=12;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
           <mxGeometry x="235" y="36" width="170" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-79" value="人工操作 / 部分自控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=12;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-79" value="人工操作 / 部分自控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=12;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
           <mxGeometry x="455" y="36" width="200" height="32" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-80" value="人的经验：最关键也最灵活的一环" style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontColor=#999999;fontStyle=2;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
