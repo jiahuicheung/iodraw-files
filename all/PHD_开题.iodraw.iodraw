@@ -350,7 +350,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-84" target="a1F_uhm3ZJby7PDIXVdp-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-88" value="闭环反馈：更新健康基线、修正阈值与重构策略" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;dashed=1;fontColor=#1F6FB2;fontSize=12;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-85" target="a1F_uhm3ZJby7PDIXVdp-83">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-88" value="闭环反馈：更新健康基线、修正阈值与重构策略" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#1F6FB2;dashed=1;fontColor=#1F6FB2;fontSize=15;fontStyle=1" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-85" target="a1F_uhm3ZJby7PDIXVdp-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="-120" />
