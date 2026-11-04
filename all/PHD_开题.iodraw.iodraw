@@ -834,7 +834,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-286" value="&lt;b&gt;② 验证集场景组织&lt;/b&gt;：覆盖不同风险形态和工况条件，检验评估结论在不同场景下的适用性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2154" y="3838" width="672" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b&gt;③ 评价内容&lt;/b&gt;&lt;br&gt;· 事件级召回率与误报率　· 未知风险提示能力&lt;br&gt;· 风险等级与排序的一致性（反映与工程判断的吻合程度）&lt;br&gt;· 主要贡献因子与敏感性排序的稳定性（反映解释结果的可靠程度）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b&gt;③ 评价内容&lt;/b&gt;&lt;br&gt;· 事件级召回率与误报率&lt;br&gt;· 风险等级与排序的一致性&lt;br&gt;· 主要贡献因子与敏感性排序的稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2154" y="3908" width="672" height="92" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-288" value="&lt;b&gt;④ 代理指标说明&lt;/b&gt;：系统风险&lt;b&gt;没有真值&lt;/b&gt;，故综合评估以&lt;b&gt;等级一致性 + 排序一致性&lt;/b&gt;作为代理指标，辅以贡献稳定性检验；验证结果按各项指标所处的场景与数据条件给出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FF;strokeColor=#1F6FB2;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
