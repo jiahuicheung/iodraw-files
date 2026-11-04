@@ -604,9 +604,9 @@
           <mxGeometry x="0.2764" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2960" y="580" />
-              <mxPoint x="2680" y="580" />
-              <mxPoint x="2680" y="422" />
-              <mxPoint x="2694" y="422" />
+              <mxPoint x="2640" y="580" />
+              <mxPoint x="2640" y="266" />
+              <mxPoint x="2694" y="266" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
