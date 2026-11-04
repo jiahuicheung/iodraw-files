@@ -552,7 +552,7 @@
           <mxGeometry x="2960" y="535" width="800" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-199" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 系统综合风险评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2950" y="696" width="820" height="80" as="geometry" />
+          <mxGeometry x="2950" y="680" width="820" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
