@@ -539,6 +539,9 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-194" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）复杂工况下的正常状态建模与风险偏移辨识&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
           <mxGeometry x="2730" y="226" width="420" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-195" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（2）典型风险因子提取&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="3194" y="226" width="420" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-196" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;数据条件约束&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="3654" y="226" width="420" height="80" as="geometry" />
         </mxCell>
@@ -563,9 +566,8 @@
             <mxPoint x="3110" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-205" value="风险因子与各类画像的主导因子" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.586;exitY=0.969;exitDx=0;exitDy=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-197">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-205" value="风险因子与各类画像的主导因子" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.586;exitY=0.969;exitDx=0;exitDy=0;entryX=0.6;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-195" target="a1F_uhm3ZJby7PDIXVdp-197">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3440.12" y="303.52" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
