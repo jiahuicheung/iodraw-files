@@ -874,7 +874,7 @@
           <mxGeometry x="347" y="30" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-301" value="&lt;b&gt;实飞验证&lt;/b&gt;&lt;br&gt;外场条件下仿真结论的可外推性与适用边界" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
-          <mxGeometry x="665" y="30" width="300" height="44" as="geometry" />
+          <mxGeometry x="655" y="30" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-302" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.15;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-283" target="a1F_uhm3ZJby7PDIXVdp-298">
           <mxGeometry relative="1" as="geometry" />
