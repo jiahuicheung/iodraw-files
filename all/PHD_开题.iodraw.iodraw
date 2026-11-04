@@ -871,7 +871,7 @@
           <mxGeometry x="20" y="30" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-300" value="&lt;b&gt;工程可用性&lt;/b&gt;&lt;br&gt;时延、算力、饱和等约束下的可执行性与降级逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
-          <mxGeometry x="495" y="30" width="300" height="44" as="geometry" />
+          <mxGeometry x="366" y="30" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-301" value="&lt;b&gt;实飞验证&lt;/b&gt;&lt;br&gt;外场条件下仿真结论的可外推性与适用边界" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
           <mxGeometry x="970" y="30" width="300" height="44" as="geometry" />
