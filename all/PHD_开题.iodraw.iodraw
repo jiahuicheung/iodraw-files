@@ -654,7 +654,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-232" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（3）综合风险评估的动态预测&lt;/b&gt;——当前评估只反映当前时刻，而风险处置需要提前量" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="3093" y="1389" width="660" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;①&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;约束&lt;/b&gt;：&lt;div&gt;以工程边界和因子间共因关系作为约束，避免预测结果越过物理上不可达的状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;①&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;约束&lt;/b&gt;：&lt;div&gt;以工程边界和因子间共因关系作为约束，避免结果越过物理上不可达的状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3148" y="1433" width="550" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;误差与可信度分析&lt;/b&gt;：&lt;div&gt;结合气象风场预告精度及预测算法误差，给出最终预测可信度的判别条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
