@@ -493,12 +493,13 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-157" value="&lt;b&gt;研究内容三　风险工况适配控制&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;回答问题四：把“何时必须转为减损与人工接管”给出可判定依据&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
           <mxGeometry x="3570" y="-400" width="340" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.3;exitDx=0;exitDy=0;entryX=0;entryY=0.18;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-151" target="a1F_uhm3ZJby7PDIXVdp-155">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.3;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-151">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3570" y="-600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3460" y="-629" />
-              <mxPoint x="3460" y="-610" />
-              <mxPoint x="3570" y="-610" />
+              <mxPoint x="3460" y="-600" />
+              <mxPoint x="3570" y="-600" />
             </Array>
           </mxGeometry>
         </mxCell>
