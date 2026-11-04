@@ -431,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-111" value="反馈回路①：控制执行效果 → 修正风险评估与安全裕度估计" style="text;html=1;fontSize=11;fontColor=#C0392B;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2066" y="-400" width="400" height="18" as="geometry" />
+          <mxGeometry x="2020" y="-342" width="400" height="18" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-112" value="反馈回路②：评估结论 → 修正风险识别特征、阈值与权重" style="text;html=1;fontSize=11;fontColor=#C0392B;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1540" y="-342" width="380" height="18" as="geometry" />
@@ -451,8 +451,8 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-117" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7B4FA0;dashed=1;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-101" target="a1F_uhm3ZJby7PDIXVdp-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2631" y="-212" />
-              <mxPoint x="1460" y="-212" />
+              <mxPoint x="2631" y="-300" />
+              <mxPoint x="1460" y="-300" />
               <mxPoint x="1460" y="-495" />
             </Array>
           </mxGeometry>
