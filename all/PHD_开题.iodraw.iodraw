@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1878" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2705" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -812,6 +812,95 @@
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-265" target="a1F_uhm3ZJby7PDIXVdp-276">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-279" value="图2.3.4　风险识别模型与控制算法的统一验证：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="30" y="8" width="1440" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-280" value="&lt;b&gt;要解决的难点&lt;/b&gt;：若对各部分分别开展验证，容易出现&lt;b&gt;局部指标好而整体效果差&lt;/b&gt;的结果；因此需把评估与控制两部分放在&lt;b&gt;同一场景下联合检验&lt;/b&gt;，并回答：用哪些数据、什么场景、哪些指标来验证评估结果与控制算法，以及结论在什么范围内成立" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="44" width="1440" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-281" value="&lt;b&gt;研究目标&lt;/b&gt;：建立覆盖评估与控制两方面的验证方案，明确&lt;b&gt;数据来源、场景设置、基线与评价指标&lt;/b&gt;，形成可复现的验证流程；并按&lt;b&gt;技术性能验证、工程可用性、实飞验证&lt;/b&gt;三级标注结论的适用范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="118" width="1440" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-282" value="&lt;b&gt;统一验证基础（两部分共享，避免局部优而整体差）&lt;/b&gt;：同一场景集　·　同一划分单位（完整架次与独立事件，同一事件不拆散到训练集与测试集）　·　同一基线与评价指标　·　可复现验证流程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#1F6FB2;fontSize=12;align=center;verticalAlign=middle;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="186" width="1440" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="264" width="700" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b&gt;（1）风险识别与评估结果的验证&lt;/b&gt;——利用历史飞行数据检验评估结果的可信度" style="text;html=1;fontSize=12;fontStyle=1;align=left;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
+          <mxGeometry x="46" y="270" width="660" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;b&gt;① 数据划分&lt;/b&gt;：以&lt;b&gt;完整架次和独立事件&lt;/b&gt;为划分单位，同一事件不拆散到训练集与测试集 → 消除同一架次内时间相关性对指标的影响" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="44" y="316" width="672" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-286" value="&lt;b&gt;② 验证集场景组织&lt;/b&gt;：正常 / 短时扰动 / 持续异常 / 缓变退化 / 耦合与未知——覆盖不同风险形态和工况条件，检验评估结论在不同场景下的适用性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="44" y="386" width="672" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b&gt;③ 评价内容&lt;/b&gt;&lt;br&gt;· 事件级召回率与误报率　· 未知风险提示能力&lt;br&gt;· 风险等级与排序的一致性（反映与工程判断的吻合程度）&lt;br&gt;· 主要贡献因子与敏感性排序的稳定性（反映解释结果的可靠程度）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="44" y="456" width="672" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-288" value="&lt;b&gt;④ 代理指标说明&lt;/b&gt;：系统风险&lt;b&gt;没有真值&lt;/b&gt;，故综合评估以&lt;b&gt;等级一致性 + 排序一致性&lt;/b&gt;作为代理指标，辅以贡献稳定性检验；验证结果按各项指标所处的场景与数据条件给出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FF;strokeColor=#1F6FB2;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="44" y="560" width="672" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="770" y="264" width="700" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-290" value="&lt;b&gt;（2）控制算法的验证&lt;/b&gt;——通过仿真与半物理试验检验控制算法在风险工况下的有效性" style="text;html=1;fontSize=12;fontStyle=1;align=left;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
+          <mxGeometry x="786" y="270" width="660" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-291" value="&lt;b&gt;① 被控对象&lt;/b&gt;：以&lt;b&gt;研究内容三建立的对象模型&lt;/b&gt;为被控对象，含名义参数、参数不确定集、扰动集，以及压差上下限与系缆张力阈值等&lt;b&gt;临界约束&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="784" y="316" width="672" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-292" value="&lt;b&gt;② 仿真场景&lt;/b&gt;：超压 / 失压 / 张力超限 / 耦合情形；考虑不同初始风险等级、执行能力下降、参数漂移、外部扰动强度——使算法在&lt;b&gt;接近边界与远离边界&lt;/b&gt;的工作点上均得到检验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="784" y="386" width="672" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b&gt;③ 半物理试验&lt;/b&gt;：算法部署于球载端嵌入式或等效计算平台，引入执行机构、传感器、通信环节的&lt;b&gt;时延与算力约束&lt;/b&gt;；检验计算资源受限、执行机构饱和或响应滞后条件下的可执行性；观察&lt;b&gt;降级执行与人工接管触发逻辑&lt;/b&gt;是否按预期工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="784" y="456" width="672" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b&gt;④ 仿真—外场差异评估&lt;/b&gt;：模型失配、扰动统计差异、传感器噪声、时延差异；评估其对&lt;b&gt;越界避免率、风险等级下降幅度、恢复时间&lt;/b&gt;等结论的影响，说明仿真结论在何种条件下可外推至外场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+          <mxGeometry x="784" y="560" width="672" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-297" value="联合检验：同一场景下评估与控制同时判定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;startArrow=block;endArrow=block;fontColor=#C0392B;fontSize=10;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-283" target="a1F_uhm3ZJby7PDIXVdp-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-298" value="结论适用范围的三级标注" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;verticalAlign=top;fontStyle=1;fontSize=12;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="690" width="1440" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-299" value="&lt;b&gt;技术性能验证&lt;/b&gt;&lt;br&gt;指标层面的有效性：召回率、误报率、一致性、稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
+          <mxGeometry x="20" y="30" width="450" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-300" value="&lt;b&gt;工程可用性&lt;/b&gt;&lt;br&gt;时延、算力、饱和等约束下的可执行性与降级逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
+          <mxGeometry x="495" y="30" width="450" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-301" value="&lt;b&gt;实飞验证&lt;/b&gt;&lt;br&gt;外场条件下仿真结论的可外推性与适用边界" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
+          <mxGeometry x="970" y="30" width="450" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-302" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.15;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-283" target="a1F_uhm3ZJby7PDIXVdp-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-303" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.85;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-289" target="a1F_uhm3ZJby7PDIXVdp-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-304" value="&lt;b&gt;输出至 2.4 体系闭环&lt;/b&gt;：可复现的验证流程　·　评估结果可信度的检验依据　·　控制算法有效性的适用范围与边界条件　·　按三级标注的结论适用域" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=12;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="1440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-298" target="a1F_uhm3ZJby7PDIXVdp-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-306" value="验证结论回修前三部分：模型适用域、阈值设定与算法适用条件" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7B4FA0;dashed=1;fontSize=10;fontColor=#7B4FA0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-304" target="a1F_uhm3ZJby7PDIXVdp-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="14" y="840" />
+              <mxPoint x="14" y="212" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
