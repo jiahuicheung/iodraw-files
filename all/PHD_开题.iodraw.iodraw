@@ -828,7 +828,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b&gt;（1）风险识别与评估结果的验证&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
           <mxGeometry x="2156" y="3722" width="414" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;① 数据划分&lt;/b&gt;：&lt;div style=&quot;font-size: 15px;&quot;&gt;以&lt;span style=&quot;font-size: 15px;&quot;&gt;完整架次和独立风险事件&lt;/span&gt;为划分单位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;① 数据划分&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;以&lt;span style=&quot;font-size: 15px;&quot;&gt;完整架次和独立风险事件&lt;/span&gt;为划分单位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2154" y="3768" width="400" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-286" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 验证集场景组织&lt;/b&gt;：&lt;div style=&quot;font-size: 15px;&quot;&gt;覆盖不同风险形态和工况条件，检验评估结论在不同场景下的适用性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
@@ -843,16 +843,16 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-290" value="&lt;b&gt;（2）控制算法的验证&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
           <mxGeometry x="2693" y="3722" width="394" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-291" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;① 被控对象&lt;/b&gt;：&lt;b style=&quot;font-size: 15px;&quot;&gt;建立对象模型及约束&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-291" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;① 被控对象&lt;/b&gt;：&lt;div&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;建立对象模型及约束&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2691" y="3768" width="400" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-292" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 仿真场景&lt;/b&gt;：考虑不同初始风险等级、检验算法在&lt;b style=&quot;font-size: 15px;&quot;&gt;接近边界与远离边界&lt;/b&gt;的工作点上的适应性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-292" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 仿真场景&lt;/b&gt;：&lt;div&gt;考虑不同初始风险等级、检验算法在&lt;span style=&quot;font-size: 15px;&quot;&gt;接近边界与远离边界&lt;/span&gt;的工作点上的适应性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2691" y="3838" width="400" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 半物理试验&lt;/b&gt;：引入执行机构、传感器等；重点观察&lt;b style=&quot;font-size: 15px;&quot;&gt;与人工接管触发逻辑&lt;/b&gt;是否按预期工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 半物理试验&lt;/b&gt;：&lt;div&gt;引入执行机构、传感器等；重点观察&lt;span style=&quot;font-size: 15px;&quot;&gt;与人工接管触发逻辑&lt;/span&gt;是否按预期工作&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2691" y="3908" width="400" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;④ 结果评估&lt;/b&gt;：评估仿真结论在何种条件下可应用于实际的工程飞行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;④ 结果评估&lt;/b&gt;：&lt;div&gt;评估仿真结论在何种条件下可应用于实际的工程飞行&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2691" y="4012" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-283">
