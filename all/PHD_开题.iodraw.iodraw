@@ -378,7 +378,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-96" value="风险工况适配控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2146" y="-650" width="300" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-97" value="统一验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-97" value="效果验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2481" y="-650" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-98" value="&lt;b&gt;研究内容一&lt;/b&gt;（数据驱动为主）&lt;br&gt;&lt;b&gt;风险识别模型&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 当前情况相对同等工况偏离了多少&lt;br&gt;· 由哪些因子承载&lt;br&gt;· 更像哪类风险&lt;br&gt;· 结论有多可信&lt;br&gt;&lt;br&gt;&lt;i&gt;输出：风险约束与优先级&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
