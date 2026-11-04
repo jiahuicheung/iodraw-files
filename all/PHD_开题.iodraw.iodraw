@@ -430,12 +430,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-111" value="反馈回路①：控制执行效果 → 修正风险评估与安全裕度估计" style="text;html=1;fontSize=11;fontColor=#C0392B;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="-342" width="400" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-112" value="反馈回路②：评估结论 → 修正风险识别特征、阈值与权重" style="text;html=1;fontSize=11;fontColor=#C0392B;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="-342" width="380" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最终输出&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;verticalAlign=top;fontStyle=1;fontSize=12;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="1486" y="-175" width="1320" height="76" as="geometry" />
         </mxCell>
@@ -456,9 +450,6 @@
               <mxPoint x="1460" y="-495" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-118" value="反馈回路③：验证结果 → 回检并修正前三部分的模型适用条件、参数与支持等级" style="text;html=1;fontSize=11;fontColor=#7B4FA0;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="-300" width="560" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
