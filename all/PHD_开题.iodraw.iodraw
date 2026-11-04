@@ -571,7 +571,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-206" value="约束感知结构" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.35;exitY=1;exitDx=0;exitDy=0;entryX=0.95;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;dashed=1;fontSize=10;fontColor=#666666;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-196" target="a1F_uhm3ZJby7PDIXVdp-197">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.35;exitY=1;exitDx=0;exitDy=0;entryX=0.95;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;dashed=1;fontSize=10;fontColor=#666666;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-196" target="a1F_uhm3ZJby7PDIXVdp-197">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3801" y="340" />
