@@ -832,7 +832,7 @@
           <mxGeometry x="2154" y="3768" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-286" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 验证集场景组织&lt;/b&gt;：&lt;div style=&quot;font-size: 15px;&quot;&gt;覆盖不同风险形态和工况条件，检验评估结论在不同场景下的适用性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2154" y="3867" width="400" height="80" as="geometry" />
+          <mxGeometry x="2154" y="3877" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 评价内容&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;· 事件级召回率与误报率&lt;br style=&quot;font-size: 15px;&quot;&gt;· 风险等级与排序的一致性&lt;br style=&quot;font-size: 15px;&quot;&gt;· 主要贡献因子与敏感性排序的稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2154" y="3986" width="400" height="80" as="geometry" />
