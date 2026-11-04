@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1845" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -546,31 +546,31 @@
           <mxGeometry x="880" y="30" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-191" value="图2.3.1　复杂工况下的风险感知与因子提取：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="30" y="8" width="1380" height="28" as="geometry" />
+          <mxGeometry x="2694" y="34" width="1380" height="28" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-192" value="&lt;b&gt;核心问题&lt;/b&gt;：系留气球在不同高度、风场、运行阶段与姿态运动条件下，正常响应本身即有明显变化——如何从多源飞行数据中区分“工况引起的正常响应”与“风险引起的异常偏移”；如何将其转换为工程含义明确、可供后续使用的风险因子；并说明当前状态更像哪类已知风险、是否属于未知、结论有多可信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="30" y="44" width="1380" height="66" as="geometry" />
+          <mxGeometry x="2694" y="70" width="1380" height="66" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-193" value="&lt;b&gt;研究目标与交付&lt;/b&gt;：建立不同工况下的正常状态参考与状态偏移度量，给出偏移可被辨识的判据，形成 &lt;b&gt;6~8 个可观测、跨工况稳定&lt;/b&gt;的关键风险因子；按机理构建典型风险画像库，输出&lt;b&gt;候选画像概率、未知标记与可信度&lt;/b&gt;，作为 2.3.2 系统综合评估的输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="30" y="122" width="1380" height="56" as="geometry" />
+          <mxGeometry x="2694" y="148" width="1380" height="56" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-194" value="&lt;b&gt;（1）复杂工况下的正常状态建模与风险偏移辨识&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 观测变量三分类：环境与任务条件 / 系统响应 / 设备与控制状态&lt;br&gt;· 正常状态描述为&lt;b&gt;条件分布&lt;/b&gt;而非全局分布&lt;br&gt;· 三层面偏移度量：整体偏离、单变量越界程度、时间结构（瞬时冲击 / 短时振荡 / 持续恶化）&lt;br&gt;· 敏感性分析：工况划分粒度 × 有效样本量 × 噪声水平 → &lt;b&gt;可辨识半径&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;交付：条件化正常参考 · 多尺度偏移指标 · 可辨识半径估计流程 · 正常/关注/风险候选三档偏移证据&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="420" height="230" as="geometry" />
+          <mxGeometry x="2694" y="226" width="420" height="230" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-195" value="&lt;b&gt;（2）典型风险因子提取&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 三层次结构：观测变量 → 状态特征（幅值、变化率、波动程度、持续时间、频域、多变量协同）→ 风险因子&lt;br&gt;· 风险因子集：环境扰动、垂直运动异常、水平漂移与系留载荷、姿态与摆动、浮力与压差状态、能源与控制能力&lt;br&gt;· 筛选依据：统计证据 + 工况证据 + 工程证据&lt;br&gt;· 每因子说明：工程定义、计算方法、有效工况范围、风险方向&lt;br&gt;&lt;br&gt;&lt;i&gt;交付：可观测、跨工况稳定的关键风险因子及可逐级追溯至原始观测量的说明&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="420" height="230" as="geometry" />
+          <mxGeometry x="3194" y="226" width="420" height="230" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-196" value="&lt;b&gt;数据条件约束&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 可获取的风险事件样本有限、类别覆盖不全&lt;br&gt;· 同一类风险在不同工况下样本分布不均匀&lt;br&gt;· 存在大量难以判明原因的片段&lt;br&gt;· 数据不足以支撑从原始观测重新学习全部运行规律&lt;br&gt;&lt;br&gt;&lt;b&gt;→ 决定（3）必须采用“前层筛选 + 后层匹配”的两层感知结构，以降低对标签数量的依赖&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;spacingTop=8;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="200" width="420" height="230" as="geometry" />
+          <mxGeometry x="3654" y="226" width="420" height="230" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-197" value="&lt;b&gt;（3）少样本条件下的风险画像归类与未知风险拒识&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 风险画像库六类（按机理）：浮力与压差缓变 / 垂直运动异常 / 水平漂移与系留载荷 / 姿态与摆动 / 风场扰动 / 能源与控制能力下降；每类给出可观测判据与主导因子&lt;br&gt;· 两层感知结构：&lt;b&gt;前层&lt;/b&gt;判断是否处于工况条件下的可信正常区（仅承担筛选职责）→ &lt;b&gt;后层&lt;/b&gt;仅对偏离状态判断是否匹配某一已知画像&lt;br&gt;· 归类方法：原型匹配 + 带先验约束的概率分类&lt;br&gt;· 未知判定：相对基准的偏移程度 + 与各原型的相似度 + 样本在特征分布中的位置信息&lt;br&gt;&lt;br&gt;&lt;i&gt;交付：候选画像概率、未知标记&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7EA;strokeColor=#82B366;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="280" y="470" width="820" height="170" as="geometry" />
+          <mxGeometry x="2944" y="496" width="820" height="170" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-198" value="&lt;b&gt;（4）风险感知结果的不确定性与可信度分级&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 分项刻画四类不确定性：数据缺失与一致性偏差 / 模型自身不稳定 / 样本偏离训练分布 / 标签证据模糊；&lt;b&gt;仅经独立验证确与真实错误相关的分项进入组合&lt;/b&gt;，避免无关代理量引入&lt;br&gt;· 校准与检验：不同置信水平下的实际正确率须与声称置信水平相符；校准集与测试集&lt;b&gt;按架次分离&lt;/b&gt;，避免同一架次内时间相关性使结果虚高&lt;br&gt;· 分级使用：高可信→直接进入综合评估；中可信→进入评估但降权并标注；低可信→仅作提示、不参与定量合成&lt;br&gt;&lt;br&gt;&lt;i&gt;交付：分级可信度输出，使前端不确定性以可控方式向后端传递&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="280" y="680" width="820" height="160" as="geometry" />
+          <mxGeometry x="2944" y="706" width="820" height="160" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-199" value="&lt;b&gt;输出至 2.3.2 系统综合风险评估&lt;/b&gt;：状态表征 · 关键风险因子 · 候选画像概率 · 未知标记 · 分级可信度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=12;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="280" y="880" width="820" height="54" as="geometry" />
+          <mxGeometry x="2944" y="906" width="820" height="54" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.15;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#D6B656;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-193" target="a1F_uhm3ZJby7PDIXVdp-194">
           <mxGeometry relative="1" as="geometry" />
@@ -587,8 +587,8 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-204" value="条件化正常参考 → 前层“可信正常区”判据" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-194" target="a1F_uhm3ZJby7PDIXVdp-197">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="156" y="450" />
-              <mxPoint x="444" y="450" />
+              <mxPoint x="2820" y="476" />
+              <mxPoint x="3108" y="476" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -598,8 +598,8 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-206" value="约束感知结构" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.35;exitY=1;exitDx=0;exitDy=0;entryX=0.95;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;dashed=1;fontSize=10;fontColor=#666666;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-196" target="a1F_uhm3ZJby7PDIXVdp-197">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1137" y="450" />
-              <mxPoint x="1059" y="450" />
+              <mxPoint x="3801" y="476" />
+              <mxPoint x="3723" y="476" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -612,8 +612,8 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-209" value="可信度分级回传：低可信结果不参与定量合成，并修正前级判定阈值" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.85;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-194">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="16" y="760" />
-              <mxPoint x="16" y="396" />
+              <mxPoint x="2680" y="786" />
+              <mxPoint x="2680" y="422" />
             </Array>
           </mxGeometry>
         </mxCell>
