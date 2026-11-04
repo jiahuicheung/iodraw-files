@@ -293,9 +293,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-68" value="图6 无人值守条件下系统自主完成的“识别—评估—处置”闭环" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="95" y="-600" width="1120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-69" value="无人值守前提条件的变化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF6E0;strokeColor=#D6B656;verticalAlign=top;fontStyle=1;fontSize=13;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="95" y="-560" width="1120" height="110" as="geometry" />
         </mxCell>
