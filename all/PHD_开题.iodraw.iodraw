@@ -731,7 +731,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-250" value="&lt;b&gt;① 风险状态下的被控对象建模&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 囊内外压差 ↔ 充放气流量、净浮力、高度之间的动态关系&lt;br&gt;&lt;br&gt;· 给出压差&lt;b&gt;上限与下限&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 超压、失压的临界判据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
           <mxGeometry x="2454" y="2350" width="264" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-251" value="&lt;b&gt;② 系缆张力临界条件建模&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 张力 ↔ 风速、迎风面积、姿态、高度之间的&lt;b&gt;准静态&lt;/b&gt;与&lt;b&gt;瞬态&lt;/b&gt;关系&lt;br&gt;&lt;br&gt;· 给出张力许用值&lt;br&gt;&lt;br&gt;· 脱系风险的判定条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-251" value="&lt;b&gt;②&amp;nbsp;&lt;/b&gt;&lt;b&gt;临界约束条件&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 张力 ↔ 风速、迎风面积、姿态、高度之间的&lt;b&gt;准静态&lt;/b&gt;与&lt;b&gt;瞬态&lt;/b&gt;关系&lt;br&gt;&lt;br&gt;· 给出张力许用值&lt;br&gt;&lt;br&gt;· 脱系风险的判定条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
           <mxGeometry x="2742" y="2350" width="264" height="210" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-252" value="&lt;b&gt;③ 临界约束条件&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 上述临界条件统一写成控制的&lt;b&gt;状态约束&lt;/b&gt;与&lt;b&gt;输入约束&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 风险工况表述为&lt;b&gt;参数漂移 + 约束收紧&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 为后续控制算法提供被控对象与约束来源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
@@ -739,9 +739,6 @@
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-253" value="&lt;b&gt;④ 风险状态切换判据&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 正常飞行数据 → 标定&lt;b&gt;名义参数&lt;/b&gt;&lt;br&gt;· 风险事件片段 + 故障注入仿真 → 标定&lt;b&gt;临界区与退化区&lt;/b&gt;&lt;br&gt;· 输出：参数不确定集、扰动集、模型适用域、名义模型↔临界模型的切换判据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
           <mxGeometry x="3318" y="2350" width="264" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-254" value="&lt;b&gt;⑤ 参数来源与确定性分级&lt;/b&gt;&lt;br&gt;&lt;br&gt;· 压差上下限：设计文件给出，属较确定的&lt;b&gt;硬约束&lt;/b&gt;&lt;br&gt;· 系缆许用张力：缆绳规格 + 安全系数 + 连接件强度，按&lt;b&gt;最不利工况取安全包络&lt;/b&gt;&lt;br&gt;· 充放气速率与执行机构时延：设备能力，是输入约束的直接来源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
-          <mxGeometry x="3606" y="2350" width="264" height="210" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-250" target="a1F_uhm3ZJby7PDIXVdp-251">
           <mxGeometry relative="1" as="geometry" />
@@ -752,8 +749,10 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-252" target="a1F_uhm3ZJby7PDIXVdp-253">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-253" target="a1F_uhm3ZJby7PDIXVdp-254">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-253">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3606" y="2455" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-259" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2430" y="2642" width="700" height="360" as="geometry" />
