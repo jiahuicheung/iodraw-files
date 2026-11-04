@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="1878" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -610,7 +610,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-215" value="&lt;b&gt;（1）综合风险状态评估&lt;/b&gt;——底层观测、中层因子、顶层系统风险三层指标体系；合成环节处理共因重复计量与非补偿性两个问题" style="text;html=1;fontSize=12;fontStyle=1;align=left;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
           <mxGeometry x="2446" y="1160" width="1400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-216" value="&lt;b&gt;① 三层指标体系&lt;/b&gt;&lt;br&gt;&lt;br&gt;底层观测 → 中层因子 → 顶层系统风险&lt;br&gt;&lt;br&gt;中层因子描述可能影响风险的因素，并以&lt;b&gt;安全裕度&lt;/b&gt;刻画系统剩余能力&lt;br&gt;&lt;br&gt;量纲不同、性质不同，&lt;b&gt;不直接相加&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-216" value="&lt;b&gt;① 三层指标体系&lt;/b&gt;&lt;br&gt;&lt;br&gt;底层观测 → 中层因子 → 顶层系统风险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
           <mxGeometry x="2454" y="1210" width="264" height="220" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-217" value="&lt;b&gt;② 统一表达与边界归一化&lt;/b&gt;&lt;br&gt;&lt;br&gt;连续量 + 工况条件 → &lt;b&gt;标准化偏移 / 条件分位&lt;/b&gt;&lt;br&gt;&lt;br&gt;有明确工程边界的量 → &lt;b&gt;归一化安全裕度&lt;/b&gt;&lt;br&gt;&lt;br&gt;边界取自设计参数、运行规范或经验证试验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=top;spacingLeft=8;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
