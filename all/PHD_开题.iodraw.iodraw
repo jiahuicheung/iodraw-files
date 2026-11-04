@@ -820,7 +820,7 @@
           <mxGeometry x="2140" y="3453" width="1440" height="54" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-282" value="&lt;b&gt;统一验证基础&lt;/b&gt;：同一场景集、同一基线与评价指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#1F6FB2;fontSize=12;align=center;verticalAlign=middle;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="3638" width="1160" height="52" as="geometry" />
+          <mxGeometry x="2140" y="3638" width="980" height="52" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2140" y="3716" width="440" height="390" as="geometry" />
@@ -835,7 +835,7 @@
           <mxGeometry x="2154" y="3838" width="400" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b&gt;③ 评价内容&lt;/b&gt;&lt;br&gt;· 事件级召回率与误报率&lt;br&gt;· 风险等级与排序的一致性&lt;br&gt;· 主要贡献因子与敏感性排序的稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
-          <mxGeometry x="2154" y="3908" width="400" height="92" as="geometry" />
+          <mxGeometry x="2154" y="3986" width="400" height="92" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="2677" y="3716" width="430" height="390" as="geometry" />
