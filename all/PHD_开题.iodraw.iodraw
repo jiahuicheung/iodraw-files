@@ -781,7 +781,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-269" value="&lt;b&gt;③ 失控等级触发&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3200" y="2840" width="640" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-270" value="&lt;b&gt;④ 工程约束&lt;/b&gt;：算法需部署于球载端嵌入式系统，部分数据驱动算法须满足&lt;b&gt;轻量化&lt;/b&gt;约束，并按风险等级分配算力预算；四级之间设置&lt;b&gt;迟滞与确认机制&lt;/b&gt;，避免在边界附近反复跳变" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-270" value="&lt;b&gt;④ 工程部署约束&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="3200" y="2914" width="640" height="62" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-271" value="被控对象与约束来源" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.16;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-248" target="a1F_uhm3ZJby7PDIXVdp-259">
