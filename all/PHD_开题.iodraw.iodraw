@@ -852,7 +852,7 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-292" value="&lt;b&gt;② 仿真场景&lt;/b&gt;：考虑不同初始风险等级、检验算法在&lt;b&gt;接近边界与远离边界&lt;/b&gt;的工作点上的适应性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2894" y="3838" width="672" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b&gt;③ 半物理试验&lt;/b&gt;：算法部署于球载端嵌入式或等效计算平台，引入执行机构、传感器、通信环节的&lt;b&gt;时延与算力约束&lt;/b&gt;；检验计算资源受限、执行机构饱和或响应滞后条件下的可执行性；观察&lt;b&gt;降级执行与人工接管触发逻辑&lt;/b&gt;是否按预期工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b&gt;③ 半物理试验&lt;/b&gt;：引入执行机构、传感器等；重点观察&lt;b&gt;与人工接管触发逻辑&lt;/b&gt;是否按预期工作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
           <mxGeometry x="2894" y="3908" width="672" height="92" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b&gt;④ 仿真—外场差异评估&lt;/b&gt;：模型失配、扰动统计差异、传感器噪声、时延差异；评估其对&lt;b&gt;越界避免率、风险等级下降幅度、恢复时间&lt;/b&gt;等结论的影响，说明仿真结论在何种条件下可外推至外场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=11;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
