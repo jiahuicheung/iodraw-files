@@ -680,7 +680,8 @@
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-238" value="综合风险状态序列为预测提供基准" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.68;exitY=1;exitDx=0;exitDy=0;entryX=0.32;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-214" target="a1F_uhm3ZJby7PDIXVdp-231">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3409" y="1482" />
+              <mxPoint x="3409" y="1350" />
+              <mxPoint x="3394" y="1350" />
             </Array>
           </mxGeometry>
         </mxCell>
