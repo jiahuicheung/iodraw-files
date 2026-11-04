@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="2220" dy="2487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="2075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,9 +600,6 @@
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-211" value="图2.3.2　多源风险融合与综合风险状态评估：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2430" y="970" width="1440" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-212" value="&lt;b&gt;要解决的难点&lt;/b&gt;：把研究内容一给出的因子、偏移证据与候选画像合成为&lt;b&gt;可解释、可追溯、与工程边界一致&lt;/b&gt;的系统风险状态。多源因子量纲不同、彼此相关并带有不确定性——简单合成会把同一风险触发因素&lt;b&gt;重复计入&lt;/b&gt;，也会让不同性质的因子&lt;b&gt;相互补偿&lt;/b&gt;，掩盖真实风险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="2430" y="1006" width="1440" height="66" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-213" value="&lt;b&gt;研究目标&lt;/b&gt;：建立&lt;b&gt;共因不重复、非补偿&lt;/b&gt;的系统风险合成方法，使合成结果能够分解并追溯到具体风险因子乃至原始观测值；在此基础上分析各因子对综合结果的敏感程度，识别关键因子及其敏感区间；最终形成包含&lt;b&gt;风险等级、画像判定和可信度&lt;/b&gt;的综合风险评估结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
           <mxGeometry x="2430" y="1082" width="1440" height="56" as="geometry" />
