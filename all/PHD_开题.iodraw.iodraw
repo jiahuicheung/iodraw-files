@@ -767,22 +767,22 @@
           <mxGeometry x="2460" y="2914" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-265" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="2930" y="2642" width="360" height="360" as="geometry" />
+          <mxGeometry x="2914" y="2642" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-266" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（3）风险失控判定与人工接管边界研究&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
-          <mxGeometry x="2946" y="2648" width="334" height="36" as="geometry" />
+          <mxGeometry x="2930" y="2648" width="334" height="36" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-267" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 判定输入&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2960" y="2692" width="300" height="60" as="geometry" />
+          <mxGeometry x="2944" y="2692" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-268" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;② 边界及可控窗口判定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2960" y="2766" width="300" height="60" as="geometry" />
+          <mxGeometry x="2944" y="2766" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-269" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;③ 失控等级触发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2960" y="2840" width="300" height="60" as="geometry" />
+          <mxGeometry x="2944" y="2840" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-270" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④ 工程部署约束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2960" y="2914" width="300" height="60" as="geometry" />
+          <mxGeometry x="2944" y="2914" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-271" value="被控对象与约束来源" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.16;exitY=1;exitDx=0;exitDy=0;entryX=0.16;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-248" target="a1F_uhm3ZJby7PDIXVdp-259">
           <mxGeometry relative="1" as="geometry" />
