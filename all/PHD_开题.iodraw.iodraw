@@ -461,7 +461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-147" value="关键问题与研究内容的对应关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="-720" width="1010" height="28" as="geometry" />
+          <mxGeometry x="3380" y="-810" width="800" height="28" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-148" value="拟解决的关键问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4E4;strokeColor=#B85450;fontSize=13;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="3114" y="-684" width="310" height="30" as="geometry" />
