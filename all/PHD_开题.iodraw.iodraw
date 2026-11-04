@@ -868,7 +868,7 @@
           <mxGeometry x="2140" y="4142" width="1440" height="86" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-299" value="&lt;b&gt;技术性能验证&lt;/b&gt;&lt;br&gt;指标层面的有效性：召回率、误报率、一致性、稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
-          <mxGeometry x="20" y="30" width="450" height="44" as="geometry" />
+          <mxGeometry x="20" y="30" width="300" height="44" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-300" value="&lt;b&gt;工程可用性&lt;/b&gt;&lt;br&gt;时延、算力、饱和等约束下的可执行性与降级逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
           <mxGeometry x="495" y="30" width="450" height="44" as="geometry" />
