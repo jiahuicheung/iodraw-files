@@ -752,7 +752,7 @@
           <mxGeometry x="2430" y="2642" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-260" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;（2）风险工况下的控制算法研究&lt;/font&gt;&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
-          <mxGeometry x="2446" y="2648" width="660" height="36" as="geometry" />
+          <mxGeometry x="2443" y="2648" width="334" height="36" as="geometry" />
         </mxCell>
         <mxCell id="a1F_uhm3ZJby7PDIXVdp-261" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 控制目标与优先级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2460" y="2692" width="300" height="60" as="geometry" />
