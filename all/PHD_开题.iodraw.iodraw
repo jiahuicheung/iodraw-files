@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S4I_Q-W9TPOAAGrs3u5q">
-    <mxGraphModel dx="740" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="2619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,64 +293,64 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-69" value="无人值守前提条件的变化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF6E0;strokeColor=#D6B656;verticalAlign=top;fontStyle=1;fontSize=13;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-69" value="无人值守前提条件的变化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF6E0;strokeColor=#D6B656;verticalAlign=top;fontStyle=1;fontSize=13;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="95" y="-560" width="1120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-70" value="夜间值守" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-69">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-70" value="夜间值守" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-69" vertex="1">
           <mxGeometry x="15" y="38" width="190" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-71" value="恶劣天气" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-69">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-71" value="恶劣天气" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-69" vertex="1">
           <mxGeometry x="225" y="38" width="190" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-72" value="通信受限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-69">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-72" value="通信受限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-69" vertex="1">
           <mxGeometry x="435" y="38" width="190" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-73" value="人员无法及时到位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-69">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-73" value="人员无法及时到位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-69" vertex="1">
           <mxGeometry x="645" y="38" width="190" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-74" value="遥控链路延迟 / 阻塞" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-69">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-74" value="遥控链路延迟 / 阻塞" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D6B656;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-69" vertex="1">
           <mxGeometry x="855" y="38" width="190" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-75" value="人不再处于回路中 → 故障处置时延由人的响应速度转为系统的决策速度 → 遥控受阻时控制权交由球载自主决策" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#7A5C00;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-69">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-75" value="人不再处于回路中 → 故障处置时延由人的响应速度转为系统的决策速度 → 遥控受阻时控制权交由球载自主决策" style="text;html=1;align=center;verticalAlign=middle;fontSize=12;fontColor=#7A5C00;" parent="a1F_uhm3ZJby7PDIXVdp-69" vertex="1">
           <mxGeometry x="15" y="80" width="1090" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-76" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;有人值守模式下的故障处置链条&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;dashed=1;verticalAlign=top;fontStyle=1;fontSize=12;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-76" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;有人值守模式下的故障处置链条&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;dashed=1;verticalAlign=top;fontStyle=1;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="95" y="-430" width="1120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-77" value="报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-77" value="报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-76" vertex="1">
           <mxGeometry x="15" y="36" width="170" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-78" value="人工判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-78" value="人工判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-76" vertex="1">
           <mxGeometry x="235" y="36" width="170" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-79" value="人工操作 / 部分自控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=15;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-79" value="人工操作 / 部分自控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontColor=#666666;fontSize=15;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-76" vertex="1">
           <mxGeometry x="455" y="36" width="200" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-80" value="人的经验：最关键也最灵活的一环" style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontColor=#999999;fontStyle=2;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-76">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-80" value="人的经验：最关键也最灵活的一环" style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontColor=#999999;fontStyle=2;" parent="a1F_uhm3ZJby7PDIXVdp-76" vertex="1">
           <mxGeometry x="700" y="36" width="380" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="a1F_uhm3ZJby7PDIXVdp-76" source="a1F_uhm3ZJby7PDIXVdp-77" target="a1F_uhm3ZJby7PDIXVdp-78">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="a1F_uhm3ZJby7PDIXVdp-76" source="a1F_uhm3ZJby7PDIXVdp-77" target="a1F_uhm3ZJby7PDIXVdp-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="a1F_uhm3ZJby7PDIXVdp-76" source="a1F_uhm3ZJby7PDIXVdp-78" target="a1F_uhm3ZJby7PDIXVdp-79">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="a1F_uhm3ZJby7PDIXVdp-76" source="a1F_uhm3ZJby7PDIXVdp-78" target="a1F_uhm3ZJby7PDIXVdp-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-83" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;识别&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;· 在线监控与阈值 / 趋势判据&lt;br style=&quot;font-size: 18px;&quot;&gt;· 多源信号交叉比对&lt;br style=&quot;font-size: 18px;&quot;&gt;· 虚警抑制与置信度评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;verticalAlign=middle;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-83" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;识别&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;· 在线监控与阈值 / 趋势判据&lt;br style=&quot;font-size: 18px;&quot;&gt;· 多源信号交叉比对&lt;br style=&quot;font-size: 18px;&quot;&gt;· 虚警抑制与置信度评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;verticalAlign=middle;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="155" y="-310" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-84" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;评估&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;· 影响范围与风险等级评定&lt;br style=&quot;font-size: 18px;&quot;&gt;· 剩余能力与可恢复性判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;verticalAlign=middle;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-84" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;评估&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;· 影响范围与风险等级评定&lt;br style=&quot;font-size: 18px;&quot;&gt;· 剩余能力与可恢复性判定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;verticalAlign=middle;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="-310" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-85" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;处置&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;· 降级 / 切换备份&lt;br style=&quot;font-size: 18px;&quot;&gt;· 应急控制维持安全状态&lt;br style=&quot;font-size: 18px;&quot;&gt;· 上报地面/人工接管" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;verticalAlign=middle;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-85" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;处置&lt;/b&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;· 降级 / 切换备份&lt;br style=&quot;font-size: 18px;&quot;&gt;· 应急控制维持安全状态&lt;br style=&quot;font-size: 18px;&quot;&gt;· 上报地面/人工接管" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;verticalAlign=middle;fontSize=18;align=center;" parent="1" vertex="1">
           <mxGeometry x="905" y="-310" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-83" target="a1F_uhm3ZJby7PDIXVdp-84">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-83" target="a1F_uhm3ZJby7PDIXVdp-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-84" target="a1F_uhm3ZJby7PDIXVdp-85">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-84" target="a1F_uhm3ZJby7PDIXVdp-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-88" value="闭环反馈：更新健康基线、修正阈值与重构策略" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#1F6FB2;dashed=1;fontColor=#1F6FB2;fontSize=15;fontStyle=1" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-85" target="a1F_uhm3ZJby7PDIXVdp-83">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-88" value="闭环反馈：更新健康基线、修正阈值与重构策略" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#1F6FB2;dashed=1;fontColor=#1F6FB2;fontSize=15;fontStyle=1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-85" target="a1F_uhm3ZJby7PDIXVdp-83" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="-120" />
@@ -358,7 +358,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-89" value="触发" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;dashed=1;fontColor=#B08A1E;fontSize=15;fontStyle=1;strokeWidth=3;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-69" target="a1F_uhm3ZJby7PDIXVdp-83">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-89" value="触发" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#D6B656;dashed=1;fontColor=#B08A1E;fontSize=15;fontStyle=1;strokeWidth=3;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-69" target="a1F_uhm3ZJby7PDIXVdp-83" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="-505" />
@@ -366,46 +366,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-93" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;课题总目标&lt;/b&gt;：面向长航时系留气球安全运行需求，建立由&lt;b style=&quot;font-size: 13px;&quot;&gt;风险状态表征与感知 → 系统综合风险评估 → 风险工况适配控制 → 统一验证&lt;/b&gt;构成的方法框架；研究逻辑遵循系统风险管理中&lt;b style=&quot;font-size: 13px;&quot;&gt;风险识别—评价—控制&lt;/b&gt;的基本路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-93" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;课题总目标&lt;/b&gt;：面向长航时系留气球安全运行需求，建立由&lt;b style=&quot;font-size: 13px;&quot;&gt;风险状态表征与感知 → 系统综合风险评估 → 风险工况适配控制 → 统一验证&lt;/b&gt;构成的方法框架；研究逻辑遵循系统风险管理中&lt;b style=&quot;font-size: 13px;&quot;&gt;风险识别—评价—控制&lt;/b&gt;的基本路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="1476" y="-726" width="1304" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-94" value="风险状态表征与感知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-94" value="风险状态表征与感知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1476" y="-650" width="300" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-95" value="系统综合风险评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-95" value="系统综合风险评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1811" y="-650" width="300" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-96" value="风险工况适配控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-96" value="风险工况适配控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2146" y="-650" width="300" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-97" value="效果验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-97" value="效果验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2481" y="-650" width="300" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-98" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容一&lt;/b&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;· 当前情况相对同等工况偏离了多少&lt;br style=&quot;font-size: 16px;&quot;&gt;· 由哪些因子承载&lt;br style=&quot;font-size: 16px;&quot;&gt;· 更像哪类风险&lt;br style=&quot;font-size: 16px;&quot;&gt;· 结论有多可信&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：风险约束与优先级&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-98" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容一&lt;/b&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;· 当前情况相对同等工况偏离了多少&lt;br style=&quot;font-size: 16px;&quot;&gt;· 由哪些因子承载&lt;br style=&quot;font-size: 16px;&quot;&gt;· 更像哪类风险&lt;br style=&quot;font-size: 16px;&quot;&gt;· 结论有多可信&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：风险约束与优先级&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="1476" y="-588" width="300" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-99" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容二&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;· 系统整体有多严重&lt;br style=&quot;font-size: 16px;&quot;&gt;· 由什么因素驱动&lt;br style=&quot;font-size: 16px;&quot;&gt;· 还剩多少安全裕度&lt;br style=&quot;font-size: 16px;&quot;&gt;· 哪个因子对结论影响最大&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：控制约束与优先级&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-99" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容二&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;· 系统整体有多严重&lt;br style=&quot;font-size: 16px;&quot;&gt;· 由什么因素驱动&lt;br style=&quot;font-size: 16px;&quot;&gt;· 还剩多少安全裕度&lt;br style=&quot;font-size: 16px;&quot;&gt;· 哪个因子对结论影响最大&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：控制约束与优先级&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="1811" y="-588" width="300" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-100" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容三&lt;/b&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;· 面向不同控制对象建立模型&lt;br style=&quot;font-size: 16px;&quot;&gt;· 风险发生后对象还能不能控&lt;br style=&quot;font-size: 16px;&quot;&gt;· 怎么控&lt;br style=&quot;font-size: 16px;&quot;&gt;· 把评估结论转化为可执行动作&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：控制介入动作与退出触发&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-100" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容三&lt;/b&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;· 面向不同控制对象建立模型&lt;br style=&quot;font-size: 16px;&quot;&gt;· 风险发生后对象还能不能控&lt;br style=&quot;font-size: 16px;&quot;&gt;· 怎么控&lt;br style=&quot;font-size: 16px;&quot;&gt;· 把评估结论转化为可执行动作&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：控制介入动作与退出触发&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="2146" y="-588" width="300" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-101" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容四&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;·&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;结论在什么条件下成立&lt;/span&gt;&lt;div&gt;· 能支持到哪一级&lt;br style=&quot;font-size: 16px;&quot;&gt;· 对前建立的模型、参数与边界进行检验&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：适用条件与支持等级&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-101" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;研究内容四&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;·&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;结论在什么条件下成立&lt;/span&gt;&lt;div&gt;· 能支持到哪一级&lt;br style=&quot;font-size: 16px;&quot;&gt;· 对前建立的模型、参数与边界进行检验&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;输出：适用条件与支持等级&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=left;verticalAlign=top;spacingLeft=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="2481" y="-588" width="300" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-94" target="a1F_uhm3ZJby7PDIXVdp-98">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-94" target="a1F_uhm3ZJby7PDIXVdp-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-95" target="a1F_uhm3ZJby7PDIXVdp-99">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-95" target="a1F_uhm3ZJby7PDIXVdp-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-96" target="a1F_uhm3ZJby7PDIXVdp-100">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-96" target="a1F_uhm3ZJby7PDIXVdp-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-97" target="a1F_uhm3ZJby7PDIXVdp-101">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-97" target="a1F_uhm3ZJby7PDIXVdp-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-109" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.8;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-100" target="a1F_uhm3ZJby7PDIXVdp-99">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-109" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.8;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-100" target="a1F_uhm3ZJby7PDIXVdp-99" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2386" y="-360" />
@@ -413,7 +413,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.3;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-99" target="a1F_uhm3ZJby7PDIXVdp-98">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.3;exitY=1;exitDx=0;exitDy=0;entryX=0.3;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-99" target="a1F_uhm3ZJby7PDIXVdp-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1901" y="-360" />
@@ -421,19 +421,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最终输出&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;verticalAlign=top;fontStyle=1;fontSize=12;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最终输出&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;verticalAlign=top;fontStyle=1;fontSize=12;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="1476" y="-300" width="1304" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-114" value="当前风险判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-113">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-114" value="当前风险判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-113" vertex="1">
           <mxGeometry x="19.757575757575758" y="30" width="395.1515151515152" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-115" value="控制介入决策" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-113">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-115" value="控制介入决策" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-113" vertex="1">
           <mxGeometry x="444.54545454545456" y="30" width="395.1515151515152" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-116" value="安全退出边界" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;fontStyle=1" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-113">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-116" value="安全退出边界" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;fontStyle=1" parent="a1F_uhm3ZJby7PDIXVdp-113" vertex="1">
           <mxGeometry x="869.3333333333334" y="30" width="414.90909090909093" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-117" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7B4FA0;dashed=1;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-101" target="a1F_uhm3ZJby7PDIXVdp-98">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-117" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7B4FA0;dashed=1;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-101" target="a1F_uhm3ZJby7PDIXVdp-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2631" y="-320" />
@@ -442,58 +442,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-121" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-121" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1760" y="-495.59" as="sourcePoint" />
             <mxPoint x="1820" y="-495.59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-122" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-122" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2098" y="-495.59" as="sourcePoint" />
             <mxPoint x="2158" y="-495.59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-123" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-123" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2430" y="-495.59" as="sourcePoint" />
             <mxPoint x="2490" y="-495.59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-147" value="关键问题与研究内容的对应关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-147" value="关键问题与研究内容的对应关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="3322" y="-754" width="800" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-148" value="拟解决的关键问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4E4;strokeColor=#B85450;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-148" value="拟解决的关键问题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE4E4;strokeColor=#B85450;fontSize=13;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3235" y="-684" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-149" value="对应研究内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-149" value="对应研究内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=13;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3570" y="-684" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-150" value="统一验证与边界确认" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6FA;strokeColor=#9673A6;fontSize=13;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-150" value="统一验证与边界确认" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6FA;strokeColor=#9673A6;fontSize=13;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3897" y="-684" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-151" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题一　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;复杂工况下风险状态的可辨识性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-151" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题一　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;复杂工况下风险状态的可辨识性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3235" y="-644" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-152" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题二　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;有限样本条件下的风险判别&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-152" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题二　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;有限样本条件下的风险判别&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3235" y="-570" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-153" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题三　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;多源风险的系统级合成与影响度量&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-153" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题三　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;多源风险的系统级合成与影响度量&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3235" y="-490" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-154" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题四　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;风险工况下的可控性与处置边界&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-154" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题四　&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;风险工况下的可控性与处置边界&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDEDEC;strokeColor=#B85450;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3235" y="-415" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-155" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容一　风险识别模型&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;分别回答问题一、问题二：把“阈值判据”替换为“工况自适应的偏离度量 + 可信度输出”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-155" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容一　风险识别模型&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;分别回答问题一、问题二：把“阈值判据”替换为“工况自适应的偏离度量 + 可信度输出”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="3570" y="-644" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-156" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容二　系统综合风险评估&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;回答问题三：避免重复计入导致的综合值放大与真实风险掩盖&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-156" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容二　系统综合风险评估&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;回答问题三：避免重复计入导致的综合值放大与真实风险掩盖&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="3570" y="-545" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-157" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容三　风险工况适配控制&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;回答问题四：把“何时必须转为人工接管”给出可判定依据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-157" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容三　风险工况适配控制&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;回答问题四：把“何时必须转为人工接管”给出可判定依据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="3570" y="-445" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-151">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#B85450;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-151" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3570" y="-620" as="targetPoint" />
             <Array as="points">
@@ -501,7 +501,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-152">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#B85450;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-152" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3570" y="-590" as="targetPoint" />
             <Array as="points">
@@ -510,7 +510,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-153" target="a1F_uhm3ZJby7PDIXVdp-156">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#B85450;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-153" target="a1F_uhm3ZJby7PDIXVdp-156" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3520" y="-465" />
@@ -518,43 +518,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#B85450;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-154" target="a1F_uhm3ZJby7PDIXVdp-157">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#B85450;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-154" target="a1F_uhm3ZJby7PDIXVdp-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-162" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容四　效果验证&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;回答：结论在什么条件下成立、能支持到哪一级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-162" value="&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 15px;&quot;&gt;研究内容四　效果验证&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;回答：结论在什么条件下成立、能支持到哪一级" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=10;spacingTop=8;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="3897" y="-644" width="250" height="284" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-163" value="验证支撑" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.18;exitDx=0;exitDy=0;entryX=1;entryY=0.35;entryDx=0;entryDy=0;strokeColor=#9673A6;dashed=1;fontColor=#7B4FA0;fontSize=10;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-162" target="a1F_uhm3ZJby7PDIXVdp-155">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-163" value="验证支撑" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.18;exitDx=0;exitDy=0;entryX=1;entryY=0.35;entryDx=0;entryDy=0;strokeColor=#9673A6;dashed=1;fontColor=#7B4FA0;fontSize=10;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-162" target="a1F_uhm3ZJby7PDIXVdp-155" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-164" value="验证支撑" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.48;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9673A6;dashed=1;fontColor=#7B4FA0;fontSize=10;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-162" target="a1F_uhm3ZJby7PDIXVdp-156">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-164" value="验证支撑" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.48;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9673A6;dashed=1;fontColor=#7B4FA0;fontSize=10;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-162" target="a1F_uhm3ZJby7PDIXVdp-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-165" value="验证支撑" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.85;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9673A6;dashed=1;fontColor=#7B4FA0;fontSize=10;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-162" target="a1F_uhm3ZJby7PDIXVdp-157">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-165" value="验证支撑" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.85;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#9673A6;dashed=1;fontColor=#7B4FA0;fontSize=10;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-162" target="a1F_uhm3ZJby7PDIXVdp-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-191" value="图2.3.1　复杂工况下的风险感知与因子提取：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-191" value="图2.3.1　复杂工况下的风险感知与因子提取：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2694" y="60" width="1380" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-194" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）复杂工况下的正常状态建模与风险偏移辨识&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-194" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）复杂工况下的正常状态建模与风险偏移辨识&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="2810" y="226" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-195" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（2）典型风险因子提取&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-195" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（2）典型风险因子提取&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="3194" y="226" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-196" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;数据条件约束&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;dashed=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-196" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;数据条件约束&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="3580" y="226" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-197" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（3）少样本条件下的风险画像归类与未知风险拒识&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7EA;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-197" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（3）少样本条件下的风险画像归类与未知风险拒识&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7EA;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2960" y="383" width="800" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-198" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（4）风险感知结果的不确定性与可信度分级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-198" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;（4）风险感知结果的不确定性与可信度分级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;spacingTop=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2960" y="535" width="800" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-199" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 系统综合风险评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-199" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 系统综合风险评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2950" y="680" width="820" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2958" y="306" />
@@ -566,12 +566,12 @@
             <mxPoint x="3110" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.586;exitY=0.969;exitDx=0;exitDy=0;entryX=0.55;entryY=0.005;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-195" target="a1F_uhm3ZJby7PDIXVdp-197">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.586;exitY=0.969;exitDx=0;exitDy=0;entryX=0.55;entryY=0.005;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitPerimeter=0;entryPerimeter=0;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-195" target="a1F_uhm3ZJby7PDIXVdp-197" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.35;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;dashed=1;fontSize=10;fontColor=#666666;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-196">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.35;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;dashed=1;fontSize=10;fontColor=#666666;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-196" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3723" y="306" />
@@ -579,13 +579,13 @@
             <mxPoint x="3723" y="383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.65;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;fontSize=10;fontColor=#3D6B34;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-197" target="a1F_uhm3ZJby7PDIXVdp-198">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.65;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;fontSize=10;fontColor=#3D6B34;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-197" target="a1F_uhm3ZJby7PDIXVdp-198" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-197">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-208" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-197" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-194">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;dashed=1;fontSize=10;fontColor=#6B4A8A;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-194" edge="1">
           <mxGeometry x="0.2764" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2960" y="580" />
@@ -595,81 +595,81 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-199">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-198" target="a1F_uhm3ZJby7PDIXVdp-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-211" value="图2.3.2　多源风险融合与综合风险状态评估：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-211" value="图2.3.2　多源风险融合与综合风险状态评估：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2430" y="970" width="1440" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-213" value="&lt;b&gt;研究目标&lt;/b&gt;：建立&lt;b&gt;共因不重复、非补偿&lt;/b&gt;的系统风险合成方法，使合成结果能够分解并追溯到具体风险因子乃至原始观测值；在此基础上分析各因子对综合结果的敏感程度，识别关键因子及其敏感区间；最终形成包含&lt;b&gt;风险等级、画像判定和可信度&lt;/b&gt;的综合风险评估结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-213" value="&lt;b&gt;研究目标&lt;/b&gt;：建立&lt;b&gt;共因不重复、非补偿&lt;/b&gt;的系统风险合成方法，使合成结果能够分解并追溯到具体风险因子乃至原始观测值；在此基础上分析各因子对综合结果的敏感程度，识别关键因子及其敏感区间；最终形成包含&lt;b&gt;风险等级、画像判定和可信度&lt;/b&gt;的综合风险评估结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="2430" y="1028" width="1440" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-214" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-214" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2430" y="1154" width="1300" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-215" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（1）综合风险状态评估&lt;/b&gt;——底层观测、中层因子、顶层系统风险三层指标体系；合成环节处理共因重复计量与非补偿性两个问题" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-215" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（1）综合风险状态评估&lt;/b&gt;——底层观测、中层因子、顶层系统风险三层指标体系；合成环节处理共因重复计量与非补偿性两个问题" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" parent="1" vertex="1">
           <mxGeometry x="2443" y="1160" width="1274" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-216" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;① 三层指标体系&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;底层观测 → 中层因子 → 顶层风险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-216" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;① 三层指标体系&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;底层观测 → 中层因子 → 顶层风险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2454" y="1210" width="264" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-217" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;② 统一表达与边界归一化&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;连续量 + 工况条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-217" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;② 统一表达与边界归一化&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;连续量 + 工况条件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2742" y="1210" width="264" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-218" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;③ 共因归并&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;避免同一风险触发因素被重复计量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-218" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;③ 共因归并&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;避免同一风险触发因素被重复计量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3030" y="1210" width="264" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-220" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;⑤ 可解释输出&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;结果可分解、可追溯至原始观测值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FF;strokeColor=#1F6FB2;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-220" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;⑤ 可解释输出&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;结果可分解、可追溯至原始观测值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF3FF;strokeColor=#1F6FB2;fontSize=15;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3319" y="1210" width="264" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-216" target="a1F_uhm3ZJby7PDIXVdp-217">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-216" target="a1F_uhm3ZJby7PDIXVdp-217" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-217" target="a1F_uhm3ZJby7PDIXVdp-218">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-217" target="a1F_uhm3ZJby7PDIXVdp-218" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-218" target="a1F_uhm3ZJby7PDIXVdp-220">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-218" target="a1F_uhm3ZJby7PDIXVdp-220" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3295" y="1319.9999999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-225" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-225" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2430" y="1383" width="610" height="267" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-226" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（2）风险因子的敏感性分析&lt;/b&gt;——哪些因子更容易影响综合评估结果" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-226" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（2）风险因子的敏感性分析&lt;/b&gt;——哪些因子更容易影响综合评估结果" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" parent="1" vertex="1">
           <mxGeometry x="2405" y="1389" width="660" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-227" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;① 扰动对象与方式&lt;/b&gt;：&lt;div&gt;合成模型建立后，对因子施加扰动，考察其对风险等级、综合风险值的影响&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-227" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;① 扰动对象与方式&lt;/b&gt;：&lt;div&gt;合成模型建立后，对因子施加扰动，考察其对风险等级、综合风险值的影响&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2460" y="1433" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-228" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;敏感区间分析&lt;/b&gt;：&lt;div&gt;同一因子在不同工况、不同风险等级下排序不同，通过区间的形式描述&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-228" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;敏感区间分析&lt;/b&gt;：&lt;div&gt;同一因子在不同工况、不同风险等级下排序不同，通过区间的形式描述&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2460" y="1501" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-230" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;③&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;输出&lt;/b&gt;：&lt;div&gt;为研究内容三确定调节与监测的优先顺序提供依据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-230" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;③&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;输出&lt;/b&gt;：&lt;div&gt;为研究内容三确定调节与监测的优先顺序提供依据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2460" y="1570" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-231" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-231" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="3118" y="1383" width="610" height="267" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-232" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（3）综合风险评估的动态预测&lt;/b&gt;——当前评估只反映当前时刻，而风险处置需要提前量" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-232" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;（3）综合风险评估的动态预测&lt;/b&gt;——当前评估只反映当前时刻，而风险处置需要提前量" style="text;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" parent="1" vertex="1">
           <mxGeometry x="3093" y="1389" width="660" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;①&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;约束&lt;/b&gt;：&lt;div&gt;以工程边界和因子间共因关系作为约束，避免结果越过物理上不可达的状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-233" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;①&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;约束&lt;/b&gt;：&lt;div&gt;以工程边界和因子间共因关系作为约束，避免结果越过物理上不可达的状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="3148" y="1433" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;误差与可信度分析&lt;/b&gt;：&lt;div&gt;结合气象风场预告精度及预测算法误差，给出最终预测可信度的判别条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-234" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;误差与可信度分析&lt;/b&gt;：&lt;div&gt;结合气象风场预告精度及预测算法误差，给出最终预测可信度的判别条件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="3148" y="1501" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;③&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;输出&lt;/b&gt;：&lt;div&gt;为后续控制决策中的&lt;span style=&quot;font-size: 16px;&quot;&gt;处置时机判断&lt;/span&gt;提供输入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-236" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;③&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;输出&lt;/b&gt;：&lt;div&gt;为后续控制决策中的&lt;span style=&quot;font-size: 16px;&quot;&gt;处置时机判断&lt;/span&gt;提供输入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="3148" y="1570" width="550" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-225">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" parent="1" target="a1F_uhm3ZJby7PDIXVdp-225" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2735" y="1322" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.32;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-231">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.32;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;" parent="1" target="a1F_uhm3ZJby7PDIXVdp-231" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3313" y="1320" />
@@ -677,10 +677,10 @@
             <mxPoint x="3310" y="1320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-239" value="关键敏感因子" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-225" target="a1F_uhm3ZJby7PDIXVdp-231">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-239" value="关键敏感因子" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;fontSize=10;fontColor=#6B4A8A;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-225" target="a1F_uhm3ZJby7PDIXVdp-231" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-240" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-225">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-240" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-225" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2590" y="1320" as="targetPoint" />
             <Array as="points">
@@ -688,7 +688,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.88;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-231" target="a1F_uhm3ZJby7PDIXVdp-214">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.88;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-231" target="a1F_uhm3ZJby7PDIXVdp-214" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3697" y="1383" as="sourcePoint" />
             <Array as="points">
@@ -696,10 +696,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-242" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 风险工况适配控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-242" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 风险工况适配控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="2430" y="1710" width="1300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-230" target="a1F_uhm3ZJby7PDIXVdp-242">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-230" target="a1F_uhm3ZJby7PDIXVdp-242" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2735" y="1680" />
@@ -707,7 +707,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-236" target="a1F_uhm3ZJby7PDIXVdp-242">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-236" target="a1F_uhm3ZJby7PDIXVdp-242" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3420" y="1626" />
@@ -716,179 +716,179 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-245" value="图2.3.3　风险工况下的自适应控制：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-245" value="图2.3.3　风险工况下的自适应控制：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2430" y="2110" width="1440" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-247" value="&lt;b&gt;研究目标&lt;/b&gt;：建立面向控制的对象模型以支撑风险工况下的控制算法，并给出&lt;b&gt;失控判定&lt;/b&gt;与&lt;b&gt;人工接管方案&lt;/b&gt;；使平台在不越界的前提下尽快退出风险状态，明确自动调节的能力边界与接管触发时机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-247" value="&lt;b&gt;研究目标&lt;/b&gt;：建立面向控制的对象模型以支撑风险工况下的控制算法，并给出&lt;b&gt;失控判定&lt;/b&gt;与&lt;b&gt;人工接管方案&lt;/b&gt;；使平台在不越界的前提下尽快退出风险状态，明确自动调节的能力边界与接管触发时机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="2430" y="2150" width="1440" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-248" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-248" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2430" y="2436" width="890" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-249" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）控制对象建模与临界分析&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-249" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）控制对象建模与临界分析&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" parent="1" vertex="1">
           <mxGeometry x="2446" y="2442" width="854" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-250" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 风险状态下的被控对象建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-250" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 风险状态下的被控对象建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2454" y="2492" width="264" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-251" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;临界约束条件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-251" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;②&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;临界约束条件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2742" y="2492" width="264" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-252" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;③&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;风险状态切换判据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-252" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;③&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;风险状态切换判据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;spacingTop=6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3030" y="2492" width="264" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-250" target="a1F_uhm3ZJby7PDIXVdp-251">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-250" target="a1F_uhm3ZJby7PDIXVdp-251" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-251" target="a1F_uhm3ZJby7PDIXVdp-252">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6C8EBF;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-251" target="a1F_uhm3ZJby7PDIXVdp-252" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-259" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-259" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2430" y="2642" width="360" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-260" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;（2）风险工况下的控制算法研究&lt;/font&gt;&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-260" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;（2）风险工况下的控制算法研究&lt;/font&gt;&lt;/b&gt;" style="text;html=1;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" parent="1" vertex="1">
           <mxGeometry x="2443" y="2648" width="334" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-261" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 控制目标与优先级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-261" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 控制目标与优先级&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2460" y="2692" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-262" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;② 控制算法集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-262" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;② 控制算法集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2460" y="2766" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-263" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;③ 多通道分配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-263" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;③ 多通道分配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2460" y="2840" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-264" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④ 控制输出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-264" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④ 控制输出&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2460" y="2914" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-265" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-265" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2914" y="2642" width="360" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-266" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（3）风险失控判定与人工接管边界研究&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-266" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（3）风险失控判定与人工接管边界研究&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" parent="1" vertex="1">
           <mxGeometry x="2930" y="2648" width="334" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-267" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 判定输入&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-267" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;① 判定输入&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2944" y="2692" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-268" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;② 边界及可控窗口判定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-268" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;② 边界及可控窗口判定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2944" y="2766" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-269" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;③ 失控等级触发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-269" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;③ 失控等级触发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2944" y="2840" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-270" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④ 工程部署约束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-270" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;④ 工程部署约束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=16;align=center;verticalAlign=middle;spacingLeft=8;spacingRight=8;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2944" y="2914" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.16;exitY=1;exitDx=0;exitDy=0;entryX=0.394;entryY=0.011;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.16;exitY=1;exitDx=0;exitDy=0;entryX=0.394;entryY=0.011;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2627.4" y="2584" as="sourcePoint" />
             <mxPoint x="2626.84" y="2645.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.55;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitX=0.767;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.55;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;fontSize=10;fontColor=#1F6FB2;exitX=0.767;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3043.63" y="2584.87" as="sourcePoint" />
             <mxPoint x="3042.9999999999995" y="2642" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.42;exitDx=0;exitDy=0;entryX=0;entryY=0.42;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;fontSize=10;fontColor=#6B4A8A;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-259" target="a1F_uhm3ZJby7PDIXVdp-265">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.42;exitDx=0;exitDy=0;entryX=0;entryY=0.42;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#9673A6;fontSize=10;fontColor=#6B4A8A;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-259" target="a1F_uhm3ZJby7PDIXVdp-265" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-274" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;entryX=1;entryY=0.8;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-265" target="a1F_uhm3ZJby7PDIXVdp-259">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-274" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;entryX=1;entryY=0.8;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-265" target="a1F_uhm3ZJby7PDIXVdp-259" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.91;entryY=0.998;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;entryX=0.91;entryY=0.998;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;dashed=1;fontSize=10;fontColor=#C0392B;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="3171" y="2640" as="sourcePoint" />
             <mxPoint x="3170.9" y="2583.419999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-276" value="&lt;b&gt;输出至&amp;nbsp; &amp;nbsp;统一验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=12;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-276" value="&lt;b&gt;输出至&amp;nbsp; &amp;nbsp;统一验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=12;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="2430" y="3032" width="880" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-259" target="a1F_uhm3ZJby7PDIXVdp-276">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-259" target="a1F_uhm3ZJby7PDIXVdp-276" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-265" target="a1F_uhm3ZJby7PDIXVdp-276">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-265" target="a1F_uhm3ZJby7PDIXVdp-276" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-279" value="图2.3.4　风险识别模型与控制算法的统一验证：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-279" value="图2.3.4　风险识别模型与控制算法的统一验证：研究内容及子内容逻辑关系" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2130" y="3380" width="1440" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-281" value="&lt;b&gt;研究目标&lt;/b&gt;：建立覆盖评估与控制两方面的验证方案，明确&lt;b&gt;数据来源、场景设置、基线与评价指标&lt;/b&gt;，形成可复现的验证流程；并按&lt;b&gt;技术性能验证、工程可用性、实飞验证&lt;/b&gt;三级标注结论的适用范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-281" value="&lt;b&gt;研究目标&lt;/b&gt;：建立覆盖评估与控制两方面的验证方案，明确&lt;b&gt;数据来源、场景设置、基线与评价指标&lt;/b&gt;，形成可复现的验证流程；并按&lt;b&gt;技术性能验证、工程可用性、实飞验证&lt;/b&gt;三级标注结论的适用范围" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=12;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=12;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="2140" y="3453" width="1440" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-282" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;统一验证基础&lt;/b&gt;：同一场景集、同一基线与评价指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#1F6FB2;fontSize=16;align=center;verticalAlign=middle;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-282" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;统一验证基础&lt;/b&gt;：同一场景集、同一基线与评价指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#1F6FB2;fontSize=16;align=center;verticalAlign=middle;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="2140" y="3638" width="980" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F9FF;strokeColor=#6C8EBF;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2140" y="3716" width="440" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）风险识别与评估结果的验证&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-284" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（1）风险识别与评估结果的验证&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#2F5C8A;" parent="1" vertex="1">
           <mxGeometry x="2156" y="3722" width="414" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;① 数据划分&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;以&lt;span style=&quot;font-size: 15px;&quot;&gt;完整架次和独立风险事件&lt;/span&gt;为划分单位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-285" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;① 数据划分&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;以&lt;span style=&quot;font-size: 15px;&quot;&gt;完整架次和独立风险事件&lt;/span&gt;为划分单位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2154" y="3768" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-286" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 验证集场景组织&lt;/b&gt;：&lt;div style=&quot;font-size: 15px;&quot;&gt;覆盖不同风险形态和工况条件，检验评估结论在不同场景下的适用性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-286" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 验证集场景组织&lt;/b&gt;：&lt;div style=&quot;font-size: 15px;&quot;&gt;覆盖不同风险形态和工况条件，检验评估结论在不同场景下的适用性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2154" y="3877" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 评价内容&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;· 事件级召回率与误报率&lt;br style=&quot;font-size: 15px;&quot;&gt;· 风险等级与排序的一致性&lt;br style=&quot;font-size: 15px;&quot;&gt;· 主要贡献因子与敏感性排序的稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-287" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 评价内容&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;· 事件级召回率与误报率&lt;br style=&quot;font-size: 15px;&quot;&gt;· 风险等级与排序的一致性&lt;br style=&quot;font-size: 15px;&quot;&gt;· 主要贡献因子与敏感性排序的稳定性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2154" y="3986" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3F0FA;strokeColor=#9673A6;verticalAlign=top;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2677" y="3716" width="430" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-290" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（2）控制算法的验证&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-290" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;（2）控制算法的验证&lt;/b&gt;" style="text;html=1;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;fontColor=#6B4A8A;" parent="1" vertex="1">
           <mxGeometry x="2693" y="3722" width="394" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-291" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;① 被控对象&lt;/b&gt;：&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;建立对象模型及约束&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-291" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;① 被控对象&lt;/b&gt;：&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;建立对象模型及约束&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2691" y="3767" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-292" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 仿真场景&lt;/b&gt;：&lt;div&gt;考虑不同初始风险等级、检验算法在&lt;span style=&quot;font-size: 15px;&quot;&gt;边界&lt;/span&gt;工作点的适应性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-292" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;② 仿真场景&lt;/b&gt;：&lt;div&gt;考虑不同初始风险等级、检验算法在&lt;span style=&quot;font-size: 15px;&quot;&gt;边界&lt;/span&gt;工作点的适应性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2691" y="3849" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 半物理试验&lt;/b&gt;：&lt;div&gt;重点观察&lt;span style=&quot;font-size: 15px;&quot;&gt;与人工接管触发逻辑&lt;/span&gt;是否按预期工作&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-293" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;③ 半物理试验&lt;/b&gt;：&lt;div&gt;重点观察&lt;span style=&quot;font-size: 15px;&quot;&gt;与人工接管触发逻辑&lt;/span&gt;是否按预期工作&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2691" y="3930" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;④ 结果评估&lt;/b&gt;：&lt;div&gt;评估仿真结论在何种条件下可应用于实际的工程飞行&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-294" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;④ 结果评估&lt;/b&gt;：&lt;div&gt;评估仿真结论在何种条件下可应用于实际的工程飞行&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFE8F7;strokeColor=#9673A6;fontSize=15;align=left;verticalAlign=middle;spacingLeft=8;spacingRight=8;" parent="1" vertex="1">
           <mxGeometry x="2691" y="4012" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-283">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.2;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-283" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-289">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#1F6FB2;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-282" target="a1F_uhm3ZJby7PDIXVdp-289" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;startArrow=block;endArrow=block;fontColor=#C0392B;fontSize=10;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-283" target="a1F_uhm3ZJby7PDIXVdp-289">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#C0392B;startArrow=block;endArrow=block;fontColor=#C0392B;fontSize=10;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-283" target="a1F_uhm3ZJby7PDIXVdp-289" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-298" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结论适用范围的三级标注&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;verticalAlign=top;fontStyle=1;fontSize=12;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-298" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结论适用范围的三级标注&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#999999;verticalAlign=top;fontStyle=1;fontSize=12;arcSize=4;" parent="1" vertex="1">
           <mxGeometry x="2140" y="4142" width="980" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-299" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;技术性能验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-299" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;技术性能验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;" parent="a1F_uhm3ZJby7PDIXVdp-298" vertex="1">
           <mxGeometry x="27.61111111111111" y="30" width="204.16666666666669" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-300" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;工程可用性&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-300" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;工程可用性&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;" parent="a1F_uhm3ZJby7PDIXVdp-298" vertex="1">
           <mxGeometry x="376" y="30" width="204.16666666666669" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-301" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;实飞验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="a1F_uhm3ZJby7PDIXVdp-298">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-301" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;实飞验证&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#999999;fontSize=16;align=center;verticalAlign=middle;" parent="a1F_uhm3ZJby7PDIXVdp-298" vertex="1">
           <mxGeometry x="723.7638888888889" y="30" width="204.16666666666669" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-302" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.15;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-283" target="a1F_uhm3ZJby7PDIXVdp-298">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-302" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.15;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#999999;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-283" target="a1F_uhm3ZJby7PDIXVdp-298" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-303" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.85;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-289" target="a1F_uhm3ZJby7PDIXVdp-298">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-303" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.85;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#999999;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-289" target="a1F_uhm3ZJby7PDIXVdp-298" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-304" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 工程应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-304" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;输出至&amp;nbsp; 工程应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=16;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="2140" y="4262" width="980" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-298" target="a1F_uhm3ZJby7PDIXVdp-304">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#82B366;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-298" target="a1F_uhm3ZJby7PDIXVdp-304" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7B4FA0;dashed=1;fontSize=10;fontColor=#7B4FA0;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-304" target="a1F_uhm3ZJby7PDIXVdp-282">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7B4FA0;dashed=1;fontSize=10;fontColor=#7B4FA0;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-304" target="a1F_uhm3ZJby7PDIXVdp-282" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2080" y="4292" />
@@ -896,39 +896,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-360" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-360" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="700" y="1780" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-361" value="" style="triangle;whiteSpace=wrap;html=1;direction=east;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1785" width="30" height="50" as="geometry" />
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-361" value="" style="triangle;whiteSpace=wrap;html=1;direction=east;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="827" y="1815" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-362" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-362" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="1754" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-363" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-363" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="730" y="1835" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-364" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-364" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="770" y="1835" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-365" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-365" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="810" y="1835" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-366" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-363" target="a1F_uhm3ZJby7PDIXVdp-364">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-366" value="" style="endArrow=none;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-363" target="a1F_uhm3ZJby7PDIXVdp-364" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-367" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-364" target="a1F_uhm3ZJby7PDIXVdp-365">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-367" value="" style="endArrow=none;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-364" target="a1F_uhm3ZJby7PDIXVdp-365" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-368" value="系留气球浮空平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-368" value="系留气球浮空平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="880" y="1770" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-369" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.8;entryY=0.5;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-360">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-369" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.8;entryY=0.5;" parent="1" target="a1F_uhm3ZJby7PDIXVdp-360" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="1790" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-370" value="" style="curved=1;endArrow=none;html=1;strokeColor=#CC0000;strokeWidth=2;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-370" value="" style="curved=1;endArrow=none;html=1;strokeColor=#CC0000;strokeWidth=2;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="775" y="1845" as="sourcePoint" />
             <mxPoint x="960" y="2120" as="targetPoint" />
@@ -938,104 +938,104 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-371" value="系留缆绳天线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-371" value="系留缆绳天线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="840" y="1950" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-372" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-371">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-372" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-371" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-373" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-373" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="920" y="2120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-374" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-374" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="940" y="2100" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-375" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-375" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="930" y="2150" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-376" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-376" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="995" y="2150" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-377" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-377" value="" style="endArrow=none;html=1;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="2100" as="sourcePoint" />
             <mxPoint x="960" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-378" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-378" value="" style="endArrow=none;html=1;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970" y="2100" as="sourcePoint" />
             <mxPoint x="970" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-379" value="锚泊车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-379" value="锚泊车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="890" y="2170" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-380" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-379">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-380" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-379" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-381" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-381" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="2130" width="340" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-382" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-382" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="2150" width="420" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-383" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-383" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="2170" width="480" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-384" value="地网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-384" value="地网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1100" y="2270" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-385" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-384">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-385" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-384" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="2240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-386" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-386" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="630" y="2190" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-387" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-387" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="690" y="2195" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-388" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-388" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="2210" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-389" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-389" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="2210" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-390" value="调谐匹配车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-390" value="调谐匹配车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="590" y="2170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-391" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-390">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-391" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-390" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-392" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-392" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="610" y="2270" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-393" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-393" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="680" y="2275" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-394" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-394" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="625" y="2290" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-395" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-395" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="2290" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-396" value="功放车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-396" value="功放车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="610" y="2310" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-397" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-396">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-397" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-396" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="645" y="2290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-398" value="" style="curved=1;endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;exitX=1;exitY=0.5;entryX=0.2;entryY=0.6;" edge="1" parent="1" target="a1F_uhm3ZJby7PDIXVdp-370">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-398" value="" style="curved=1;endArrow=none;html=1;strokeColor=#000000;strokeWidth=1.5;exitX=1;exitY=0.5;entryX=0.2;entryY=0.6;" parent="1" target="a1F_uhm3ZJby7PDIXVdp-370" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="2202" as="sourcePoint" />
             <Array as="points">
@@ -1044,50 +1044,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-399" value="射频馈线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-399" value="射频馈线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="670" y="2230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-400" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-399">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-400" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-399" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="2220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-401" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-401" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1200" y="2050" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-402" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-402" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1270" y="2055" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-403" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-403" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1215" y="2070" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-404" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-404" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1270" y="2070" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-405" value="氦气保障车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-405" value="氦气保障车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1190" y="2020" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-406" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-405">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-406" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-405" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-407" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-407" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1200" y="2130" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-408" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-408" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1270" y="2135" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-409" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-409" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1215" y="2150" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-410" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-410" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1270" y="2150" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-411" value="电源车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-411" value="电源车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1210" y="2100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1F_uhm3ZJby7PDIXVdp-412" value="" style="endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="1" source="a1F_uhm3ZJby7PDIXVdp-411">
+        <mxCell id="a1F_uhm3ZJby7PDIXVdp-412" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" source="a1F_uhm3ZJby7PDIXVdp-411" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1240" y="2130" as="targetPoint" />
           </mxGeometry>
